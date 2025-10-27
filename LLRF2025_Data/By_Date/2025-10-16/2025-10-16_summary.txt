@@ -1,0 +1,57 @@
+LLRF2025 - Contributions on 2025-10-16
+================================================================================
+Total contributions: 5
+
+1. [76] Advanced LLRF Automation and Diagnostic Strategies for Horizontal Testing of HIAF SRF Cavities
+   Type: Oral
+   Date/Time: 2025-10-16 09:05:00 (20 min)
+   Speakers: QIU, FENG
+   Primary Authors: QIU, FENG
+   Attachments (1):
+     - LLRF2025_FengQiu.pptx (89404128 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17417/
+   Description: The High Intensity heavy-ion Accelerator Facility (HIAF), currently under construction, will employ a series of superconducting RF (SRF) cavities in its injector linac (iLinac) to accelerate heavy-ion...
+
+2. [110] Exception handling in SELAP (Self Excited Loop Amplitude and Phase) at JLAB
+   Type: Oral
+   Date/Time: 2025-10-16 10:25:00 (25 min)
+   Speakers: Bachimanchi, Rama
+   Primary Authors: Bachimanchi, Rama
+   Attachments (1):
+     - SELAP_Exception_Handling_RBachimanchi.potx.pptx (15527972 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17830/
+   Description: SELAP (Self Excited Loop Amplitude and Phase) algorithm has been operational at Jefferson Lab for controlling high Q cavities since 2021. Core algorithm of controlling the amplitude and the phase work...
+
+3. [33] RFSoC-Base  LLRF Development for CSNS-II LINAC
+   Type: Oral
+   Date/Time: 2025-10-16 09:25:00 (20 min)
+   Speakers: Xie, Zhexin
+   Primary Authors: Xie, Zhexin
+   Co-authors: Wang, Bo, Wang, Hexin, Zhang, Hui, Guo, Kai, Wan, Maliang, Rong, linyan, Mu, zhencheng
+   Attachments (1):
+     - CSNS-II_LINAC_RF_llrf2025_final_v1.pdf (5151376 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17823/
+   Description: ​​RFSOC (Radio Frequency System-on-Chip) integrates FPGA, ARM processors, RF analog-to-digital converters (ADCs), and RF digital-to-analog converters (DACs) onto a single chip, representing a third-ge...
+
+4. [66] RFSoC based LLRF system design at ALS
+   Type: Oral
+   Date/Time: 2025-10-16 10:50:00 (30 min)
+   Speakers: Du, Qiang
+   Primary Authors: Du, Qiang, Murthy, Shreeharshini, Moore, Victoria, Jurado Lopez, Angel, Penney, Keith, Chin, Michael, Nett, David, Flugstad, Benjamin
+   Attachments (1):
+     - 2025_1016_LLRF25_RFSoC_LLRF_at_ALS.pdf (11177738 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17436/
+   Description: The Advanced Light Source (ALS) at LBNL is upgrading several LLRF systems for its Linac and Sub-Harmonic Bunchers, where it is desired to have a unified LLRF system design to support various RF freque...
+
+5. [28] A high-speed MTCA.4-based digitizer for the LLRF control system of the J-PARC MR
+   Type: Oral
+   Date/Time: 2025-10-16 09:45:00 (20 min)
+   Speakers: Sugiyama, Yasuyuki
+   Primary Authors: Sugiyama, Yasuyuki
+   Co-authors: Tamura, Fumihiko, Seiya, Kiyomi, Yoshii, Masahito
+   Attachments (1):
+     - LLRFWS2025_sugiyama_digitizer_v2.pptx (15366625 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17438/
+   Description: The J-PARC Main Ring (MR) is a high-intensity proton synchrotron that accelerates protons from 3 GeV to 30 GeV. 
+Its output beam power for fast extraction reached 830 kW, corresponding to 2.37 × 10$^...
+

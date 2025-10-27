@@ -1,0 +1,171 @@
+LLRF2025 - Contributions on 2025-10-13
+================================================================================
+Total contributions: 16
+
+1. [98] BNL Lab Talk
+   Type: Oral
+   Date/Time: 2025-10-13 11:42:00 (12 min)
+   Speakers: Mernick, Kevin
+   Primary Authors: Mernick, Kevin
+   Co-authors: Singh, Arshdeep, Severino, Freddy, Narayan, Geetha, Fahey, Kyle, McCooey, Michael, Mai, Samson
+   Attachments (2):
+     - BNL_C-AD_EIC_LLRF.pdf (4754856 bytes)
+     - BNL_C-AD_EIC_LLRF.pptx (100487145 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17530/
+   Description: This talk will review the LLRF activities at BNL for the Collider-Accelerator complex and the Electron-Ion Collider (EIC). Topics include analysis, specification and development of systems for the EIC...
+
+2. [94] Crab Cavity Low-Level RF in hadron machines
+   Type: Oral
+   Date/Time: 2025-10-13 13:15:00 (50 min)
+   Speakers: Mastoridis, Themis
+   Primary Authors: Mastoridis, Themis
+   Attachments (1):
+     - LLRF25_TMastoridis.pdf (6369337 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17510/
+   Description: The Crab Cavity Low-Level RF systems in hadron machines will have to reduce the Crab Cavity impedance to prevent transverse instabilities, while regulating the crabbing voltage and minimizing the Radi...
+
+3. [60] LBNL Lab Talk
+   Type: Oral
+   Date/Time: 2025-10-13 11:18:00 (12 min)
+   Speakers: Ratti, Alessandro
+   Primary Authors: Ratti, Alessandro
+   URL: https://indico.jlab.org/event/939/contributions/17454/
+   Description: This presentation will highlight LLRF activities at LBNL, covering both our accelerators, the collaborations with other laboratories and some applications beyond accelerator controls.
+
+4. [36] Multiharmonic enthusiast -- Applications of multiharmonic feedback in synchrotrons
+   Type: Oral
+   Date/Time: 2025-10-13 14:05:00 (30 min)
+   Speakers: Tamura, Fumihiko
+   Primary Authors: Tamura, Fumihiko
+   Attachments (1):
+     - LLRF2025_tamura_presentation.pdf (18691925 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17464/
+   Description: Magnetic alloy (MA) cavities have wideband frequency responses, which allow multiharmonic rf voltage excitation in a single cavity. In the low level rf (LLRF) control system for the Japan Proton Accel...
+
+5. [11] DESY lab talk
+   Type: Oral
+   Date/Time: 2025-10-13 09:52:00 (12 min)
+   Speakers: Branlard, Julien
+   Primary Authors: Branlard, Julien
+   Attachments (2):
+     - LLRF WS2025 - Julien Branlard - DESY lab talk.pdf (4212624 bytes)
+     - LLRF WS2025 - Julien Branlard - DESY lab talk.pptx (81168576 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17405/
+   Description: Overview of the latest LLRF developments at DESY. This includes a short report on XFEL and FLASH operation and upgrades. Some R&D highlights related to the preparation work towards continuous wave ope...
+
+6. [24] Lab Talk - Fermilab
+   Type: Oral
+   Date/Time: 2025-10-13 10:04:00 (12 min)
+   Speakers: Varghese, Philip
+   Primary Authors: Varghese, Philip
+   Attachments (2):
+     - Fermilab_Lab_Talk_2025.pdf (2604034 bytes)
+     - Fermilab_Lab_Talk_2025.pptx (42445273 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17461/
+   Description: An update on the various projects at Fermilab including PIP-II,  Mu2e ,  LBNF and the various test stands
+
+7. [16] New RF control system developments at LNF-INFN
+   Type: Oral
+   Date/Time: 2025-10-13 17:25:00 (20 min)
+   Speakers: Serenellini, Beatrice
+   Primary Authors: Serenellini, Beatrice
+   Co-authors: Gallo, Alessandro, Michelotti, Andrea, Scarselletta, Giorgio, Latini, Giulia, Piersanti, Luca, Bellaveglia, Marco, Magnanimi, Riccardo, Tocci, Simone, Fang, Xianghe
+   Attachments (1):
+     - New_RF_control_system_developments_at_LNF-INFN.pptx (76719844 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17418/
+   Description: SPARC_LAB is a high-brightness e-beam for SASE-FEL (self-amplified spontaneous emission-FEL) experiments. It consists of a brazeless 1.6-cell S-band RF gun, two travelling wave S-band accelerating str...
+
+8. [6] JLAB talk
+   Type: Oral
+   Date/Time: 2025-10-13 11:06:00 (12 min)
+   Speakers: Plawski, Tomasz
+   Primary Authors: Plawski, Tomasz
+   Co-authors: Latshaw, James, Tiskumara, Jayendrika, Settle, Joshua, Geesaman, Michael, Bachimanchi, Rama
+   Attachments (2):
+     - CEBAF-Overview-LLRF-2025-Seryi-r2.pptx (64471949 bytes)
+     - JLAB_2025_lab_talk_plawski_final.pptx (57829515 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17090/
+   Description: The presentation will highlight key LLRF developments at Jefferson Lab, including the  Electron-Ion Collider (EIC) and the Proton Improvement Plan II (PIP-II).
+
+9. [93] High-Precision LLRF System for the upgrade of SXFEL
+   Type: Oral
+   Date/Time: 2025-10-13 14:35:00 (20 min)
+   Speakers: XIAO, CHENGCHENG
+   Primary Authors: XIAO, CHENGCHENG, Fang, Wencheng, XU, YIMING
+   Attachments (1):
+     - High-Precision LLRF System for the upgrade of SXFEL.pptx (25199681 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17412/
+   Description: A high-performance low-level radio frequency (LLRF) control system based on ZYNQ MPsoc has been developed to enable the digital and intelligent upgrade of Shanghai Soft X-ray Free-Electron Laser (SXFE...
+
+10. [47] Development of new DLLRF for ALBA and ALBAII, for the main and for the 3rd harmonic RF systems
+   Type: Oral
+   Date/Time: 2025-10-13 16:35:00 (30 min)
+   Speakers: Solans, Pol
+   Primary Authors: Solans, Pol
+   Co-authors: Perez, Francis, Shaker, Hamed
+   Attachments (1):
+     - Development of new DLLRF for ALBA and ALBAII, for the main and for the 3rd harmonic RF systems.pptx (24128766 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17445/
+   Description: ALBA Low-Level RF (LLRF) system has provided over a decade reliable operation and has been adopted by other synchrotron facilities. To meet the evolving requirements of ALBA and ALBA-II, a new LLRF sy...
+
+11. [68] Reverse phase operation for CERN's FCC-ee 400 MHz RF system: Increasing flexibility brings challenges for cavity control
+   Type: Oral
+   Date/Time: 2025-10-13 14:55:00 (20 min)
+   Speakers: Karpov, Ivan
+   Primary Authors: Karpov, Ivan
+   Attachments (1):
+     - LLRF_2025_IK.pptx (19489421 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17468/
+   Description: CERN's planned Future Circular electron-positron collider (FCC-ee) must accommodate very different RF system requirements at different energy points, driven by a fixed synchrotron radiation power budg...
+
+12. [100] China Lab Talk
+   Type: Oral
+   Date/Time: 2025-10-13 10:46:00 (20 min)
+   Speakers: Gao, Zheng
+   Attachments (1):
+     - China_lab talk.pdf (7143527 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17533/
+
+13. [54] Overview of Electron Ion Collider RF Systems
+   Type: Oral
+   Date/Time: 2025-10-13 15:15:00 (20 min)
+   Speakers: Narayan, Geetha
+   Primary Authors: Narayan, Geetha
+   Co-authors: Severino, Freddy, Mernick, Kevin, Verdu Andres, Silvia, Conway, Zack
+   Attachments (2):
+     - GN_LLRF2025_EIC_RF_Systems_Overview.pdf (6570139 bytes)
+     - GN_LLRF2025_EIC_RF_Systems_Overview.pptx (74254867 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17460/
+   Description: Brookhaven National Laboratory (BNL) is the future home of Electron-Ion Collider (EIC) project that will be constructed in partnership with Thomas Jefferson National Accelerator Facility (Jefferson La...
+
+14. [73] LLRF activities at CERN
+   Type: Oral
+   Date/Time: 2025-10-13 09:40:00 (12 min)
+   Speakers: Woolley, Ben
+   Primary Authors: Woolley, Ben
+   Attachments (1):
+     - CERN_Lab_Talk.pptx (35686814 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17422/
+   Description: This talk will present an overview of the ongoing and future Low-Level RF (LLRF) activities at CERN, addressing the growing challenges of hardware obsolescence, support for legacy systems, and the nee...
+
+15. [17] Achieving Ultra-Stable RF Control for Plasma Acceleration at LNF-INFN
+   Type: Oral
+   Date/Time: 2025-10-13 17:05:00 (20 min)
+   Speakers: Piersanti, Luca
+   Primary Authors: Piersanti, Luca
+   Co-authors: Gallo, Alessandro, Serenellini, Beatrice, Scarselletta, Giorgio, Bellaveglia, Marco, Magnanimi, Riccardo, Tocci, Simone, Fang, Xianghe
+   Attachments (1):
+     - Presentation_Piersanti_25.pdf (6996013 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17426/
+   Description: The SPARC_LAB facility at LNF includes a high-brightness electron linac dedicated to plasma acceleration studies and R&D. Given the stringent stability requirements on electromagnetic fields, especial...
+
+16. [89] Status of LLRF activities at SLAC
+   Type: Oral
+   Date/Time: 2025-10-13 11:30:00 (12 min)
+   Speakers: Diaz Cruz, Jorge
+   Primary Authors: Benwell, Andy
+   Attachments (1):
+     - SLAC Lab status.pptx (46950990 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17424/
+   Description: A status of LLRF activities at SLAC will be presented including operational accelerators and ongoing projects.
+

@@ -1,0 +1,392 @@
+{
+  "date": "2025-10-16",
+  "count": 5,
+  "contributions": [
+    {
+      "id": "76",
+      "db_id": 17417,
+      "friendly_id": 76,
+      "title": "Advanced LLRF Automation and Diagnostic Strategies for Horizontal Testing of HIAF SRF Cavities",
+      "type": "Oral",
+      "description": "The High Intensity heavy-ion Accelerator Facility (HIAF), currently under construction, will employ a series of superconducting RF (SRF) cavities in its injector linac (iLinac) to accelerate heavy-ion beams. Comprehensive performance validation of each SRF cavity in a horizontal test stand prior to its installation in the accelerator tunnel is a critical prerequisite for the successful commissioning of the iLinac. To this end, we have developed an advanced Low-Level RF (LLRF) automation and diagnostic system for the horizontal test stand of HIAF's low-beta SRF cavities. This system integrates several key functions: high-precision measurement of cavity parameters, automated conditioning at both room and cryogenic temperatures, reliable quench detection, and stable closed-loop operation. The successful application of these advanced strategies not only validates that the cavity performance meets design specifications but also significantly enhances the efficiency and consistency of the testing process, laying a solid foundation for the subsequent installation and commissioning of the HIAF iLinac.",
+      "start_date": "2025-10-16",
+      "start_time": "09:05:00",
+      "end_date": "2025-10-16",
+      "end_time": "09:25:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17417/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "QIU, FENG",
+          "first_name": "FENG",
+          "last_name": "QIU",
+          "affiliation": "Institute of Modern Physics",
+          "id": "22740"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "QIU, FENG",
+          "first_name": "FENG",
+          "last_name": "QIU",
+          "affiliation": "Institute of Modern Physics",
+          "id": "22740"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21625,
+          "title": "LLRF2025_FengQiu.pptx",
+          "filename": "LLRF2025_FengQiu.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17417/attachments/13415/21625/LLRF2025_FengQiu.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 89404128,
+          "modified_dt": "2025-10-13T02:12:28.656296+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "110",
+      "db_id": 17830,
+      "friendly_id": 110,
+      "title": "Exception handling in SELAP (Self Excited Loop Amplitude and Phase) at JLAB",
+      "type": "Oral",
+      "description": "SELAP (Self Excited Loop Amplitude and Phase) algorithm has been operational at Jefferson Lab for controlling high Q cavities since 2021. Core algorithm of controlling the amplitude and the phase works reliably independent of the environment. When combined with the operational aspects such as high microphonics, mechanical coupling between the cavities, heavy beam loading etc., lot of exception handling had to be added in the gateware and software for making the operation easier and reliable. This poster describes some of the operational aspects noticed and the methodology used for detection and the mitigation.",
+      "start_date": "2025-10-16",
+      "start_time": "10:25:00",
+      "end_date": "2025-10-16",
+      "end_time": "10:50:00",
+      "duration": 25,
+      "location": "Newport News Marriott at City Center",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17830/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Bachimanchi, Rama",
+          "first_name": "Rama",
+          "last_name": "Bachimanchi",
+          "affiliation": "Jefferson Lab",
+          "id": "23543"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Bachimanchi, Rama",
+          "first_name": "Rama",
+          "last_name": "Bachimanchi",
+          "affiliation": "Jefferson Lab",
+          "id": "23543"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21748,
+          "title": "SELAP_Exception_Handling_RBachimanchi.potx.pptx",
+          "filename": "SELAP_Exception_Handling_RBachimanchi.potx.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17830/attachments/13469/21748/SELAP_Exception_Handling_RBachimanchi.potx.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 15527972,
+          "modified_dt": "2025-10-16T13:47:17.318851+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "33",
+      "db_id": 17823,
+      "friendly_id": 33,
+      "title": "RFSoC-Base  LLRF Development for CSNS-II LINAC",
+      "type": "Oral",
+      "description": "​​RFSOC (Radio Frequency System-on-Chip) integrates FPGA, ARM processors, RF analog-to-digital converters (ADCs), and RF digital-to-analog converters (DACs) onto a single chip, representing a third-generation leap in hardware technology following the shift from analog to digital circuits.​​ Applying RFSOC to accelerator systems ​​significantly enhances operational efficiency while substantially reducing development complexity, hardware maintenance burden, and overall cost.​​ This report ​​will survey​​ recent progress in utilizing RFSOC for accelerator applications, ​​analyze​​ relevant performance metrics, and ​​present​​ research and implementation work concerning RFSOC in the Low-Level RF (LFB) system of the China Spallation Neutron Source (CSNS) linear accelerator.",
+      "start_date": "2025-10-16",
+      "start_time": "09:25:00",
+      "end_date": "2025-10-16",
+      "end_time": "09:45:00",
+      "duration": 20,
+      "location": "Newport News Marriott at City Center",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17823/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Xie, Zhexin",
+          "first_name": "Zhexin",
+          "last_name": "Xie",
+          "affiliation": "ihep/csns",
+          "id": "23517"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Xie, Zhexin",
+          "first_name": "Zhexin",
+          "last_name": "Xie",
+          "affiliation": "ihep/csns",
+          "id": "23517"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Wang, Bo",
+          "first_name": "Bo",
+          "last_name": "Wang",
+          "affiliation": "",
+          "id": "23513"
+        },
+        {
+          "name": "Wang, Hexin",
+          "first_name": "Hexin",
+          "last_name": "Wang",
+          "affiliation": "",
+          "id": "23516"
+        },
+        {
+          "name": "Zhang, Hui",
+          "first_name": "Hui",
+          "last_name": "Zhang",
+          "affiliation": "",
+          "id": "23512"
+        },
+        {
+          "name": "Guo, Kai",
+          "first_name": "Kai",
+          "last_name": "Guo",
+          "affiliation": "",
+          "id": "23511"
+        },
+        {
+          "name": "Wan, Maliang",
+          "first_name": "Maliang",
+          "last_name": "Wan",
+          "affiliation": "",
+          "id": "23515"
+        },
+        {
+          "name": "Rong, linyan",
+          "first_name": "linyan",
+          "last_name": "Rong",
+          "affiliation": "",
+          "id": "23510"
+        },
+        {
+          "name": "Mu, zhencheng",
+          "first_name": "zhencheng",
+          "last_name": "Mu",
+          "affiliation": "",
+          "id": "23514"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21745,
+          "title": "CSNS-II_LINAC_RF_llrf2025_final_v1.pdf",
+          "filename": "CSNS-II_LINAC_RF_llrf2025_final_v1.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17823/attachments/13467/21745/CSNS-II_LINAC_RF_llrf2025_final_v1.pdf",
+          "content_type": "application/pdf",
+          "size": 5151376,
+          "modified_dt": "2025-10-16T09:02:43.897071+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "66",
+      "db_id": 17436,
+      "friendly_id": 66,
+      "title": "RFSoC based LLRF system design at ALS",
+      "type": "Oral",
+      "description": "The Advanced Light Source (ALS) at LBNL is upgrading several LLRF systems for its Linac and Sub-Harmonic Bunchers, where it is desired to have a unified LLRF system design to support various RF frequencies (at 125MHz, 500MHz and 3GHz) and configurations. This paper demonstrates an open-source, direct sampling RFSoC based LLRF system design, featuring: sample-to-sample Multi-Tile Synchronization, deterministic latency, digital up/down conversion, arbitrary waveform generation and acquisition, in-pulse closed loop control, timing and EPICS integration, modular RF frontend and hardware designs. Measured RF characteristics show that the RFSoC LLRF system is able to meet the system requirement.",
+      "start_date": "2025-10-16",
+      "start_time": "10:50:00",
+      "end_date": "2025-10-16",
+      "end_time": "11:20:00",
+      "duration": 30,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17436/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Du, Qiang",
+          "first_name": "Qiang",
+          "last_name": "Du",
+          "affiliation": "Lawrence Berkeley National Laboratory",
+          "id": "22867"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Du, Qiang",
+          "first_name": "Qiang",
+          "last_name": "Du",
+          "affiliation": "Lawrence Berkeley National Laboratory",
+          "id": "22867"
+        },
+        {
+          "name": "Murthy, Shreeharshini",
+          "first_name": "Shreeharshini",
+          "last_name": "Murthy",
+          "affiliation": "Lawrence Berkeley National Laboratory",
+          "id": "22865"
+        },
+        {
+          "name": "Moore, Victoria",
+          "first_name": "Victoria",
+          "last_name": "Moore",
+          "affiliation": "",
+          "id": "22863"
+        },
+        {
+          "name": "Jurado Lopez, Angel",
+          "first_name": "Angel",
+          "last_name": "Jurado Lopez",
+          "affiliation": "",
+          "id": "22861"
+        },
+        {
+          "name": "Penney, Keith",
+          "first_name": "Keith",
+          "last_name": "Penney",
+          "affiliation": "LBNL",
+          "id": "22860"
+        },
+        {
+          "name": "Chin, Michael",
+          "first_name": "Michael",
+          "last_name": "Chin",
+          "affiliation": "Lawrence Berkeley National Laboratory",
+          "id": "22862"
+        },
+        {
+          "name": "Nett, David",
+          "first_name": "David",
+          "last_name": "Nett",
+          "affiliation": "",
+          "id": "22864"
+        },
+        {
+          "name": "Flugstad, Benjamin",
+          "first_name": "Benjamin",
+          "last_name": "Flugstad",
+          "affiliation": "",
+          "id": "22866"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21746,
+          "title": "2025_1016_LLRF25_RFSoC_LLRF_at_ALS.pdf",
+          "filename": "2025_1016_LLRF25_RFSoC_LLRF_at_ALS.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17436/attachments/13393/21746/2025_1016_LLRF25_RFSoC_LLRF_at_ALS.pdf",
+          "content_type": "application/pdf",
+          "size": 11177738,
+          "modified_dt": "2025-10-16T11:57:18.803295+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "28",
+      "db_id": 17438,
+      "friendly_id": 28,
+      "title": "A high-speed MTCA.4-based digitizer for the LLRF control system of the J-PARC MR",
+      "type": "Oral",
+      "description": "The J-PARC Main Ring (MR) is a high-intensity proton synchrotron that accelerates protons from 3 GeV to 30 GeV. \r\nIts output beam power for fast extraction reached 830 kW, corresponding to 2.37 × 10$^{14}$ protons per pulse in March 2025.\r\nCoupled bunch oscillation is well suppressed with the newly installed LLRF control system for the MR.\r\nInstead of the coupled bunch instability, longitudinal microwave instability is observed in the later part of the acceleration.\r\nA new high-speed digitizer is introduced into the LLRF system to monitor the microwave instability.\r\nIn this presentation, we present the configuration of the digitizer and its preliminary status.",
+      "start_date": "2025-10-16",
+      "start_time": "09:45:00",
+      "end_date": "2025-10-16",
+      "end_time": "10:05:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17438/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Sugiyama, Yasuyuki",
+          "first_name": "Yasuyuki",
+          "last_name": "Sugiyama",
+          "affiliation": "KEK/J-PARC",
+          "id": "22878"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Sugiyama, Yasuyuki",
+          "first_name": "Yasuyuki",
+          "last_name": "Sugiyama",
+          "affiliation": "KEK/J-PARC",
+          "id": "22878"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Tamura, Fumihiko",
+          "first_name": "Fumihiko",
+          "last_name": "Tamura",
+          "affiliation": "Japan Atomic Energy Agency, J-PARC Center",
+          "id": "22875"
+        },
+        {
+          "name": "Seiya, Kiyomi",
+          "first_name": "Kiyomi",
+          "last_name": "Seiya",
+          "affiliation": "KEK/J-PARC",
+          "id": "22876"
+        },
+        {
+          "name": "Yoshii, Masahito",
+          "first_name": "Masahito",
+          "last_name": "Yoshii",
+          "affiliation": "KEK/J-PARC",
+          "id": "22877"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21741,
+          "title": "LLRFWS2025_sugiyama_digitizer_v2.pptx",
+          "filename": "LLRFWS2025_sugiyama_digitizer_v2.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17438/attachments/13394/21741/LLRFWS2025_sugiyama_digitizer_v2.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 15366625,
+          "modified_dt": "2025-10-15T17:35:09.651561+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    }
+  ]
+}

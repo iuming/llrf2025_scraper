@@ -1,0 +1,352 @@
+LLRF2025 - Contributions on 2025-10-14
+================================================================================
+Total contributions: 34
+
+1. [18] LLRF System Analysis for the Fermilab PIP-II Superconducting LINAC
+   Type: Oral
+   Date/Time: 2025-10-14 10:50:00 (20 min)
+   Speakers: Varghese, Philip
+   Primary Authors: Varghese, Philip
+   Co-authors: Reyes, Lennon, Guran, Matei, Sankar Raman, Shrividhyaa
+   Attachments (2):
+     - PIP2 LLRF System.pdf (3751372 bytes)
+     - PIP2 LLRF System.pptx (22949045 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17404/
+   Description: PIP-II is a superconducting linac that is in the initial acceleration chain for the Fermilab accelerator complex. The RF system consists of a warm front-end with  an RFQ and buncher cavities along wit...
+
+2. [62] Piezo compensation algorithm for SC cavities at ESS
+   Type: Oral
+   Date/Time: 2025-10-14 11:10:00 (20 min)
+   Speakers: Svensson, Anders
+   Primary Authors: Svensson, Anders
+   Attachments (1):
+     - ESS Piezo compensation for SC cavities.pptx (3761334 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17463/
+   Description: The 3 ms long RF pulse at ESS will make Lorentz force detuning (LFD) significant for the superconductive cavities and at 14 Hz repetition rate some ringing might still be present at the start of the n...
+
+3. [85] APS-Upgrade Digital LLRF Systems Summary*
+   Type: Oral
+   Date/Time: 2025-10-14 09:45:00 (20 min)
+   Speakers: Berenc, Tim
+   Primary Authors: Berenc, Tim
+   Co-authors: Breeding, John, Madden, Timothy, Yang, Yawei
+   Attachments (1):
+     - LLRF2025-Berenc.pptx (61088842 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17419/
+   Description: Various digital low-level radiofrequency (LLRF) systems are now operating for the Advanced Photon Source Upgrade (APS-U).  This includes a passive superconducting bunch-lengthening cavity LLRF system ...
+
+4. [35] A Universal Cavity Controller for testing SRF cavities at CERN
+   Type: Oral
+   Date/Time: 2025-10-14 11:30:00 (20 min)
+   Speakers: Barrientos, Diego
+   Primary Authors: Barrientos, Diego
+   Co-authors: Balocchi, Leonardo, Brunner, Kristof, Geis, Korbinian, Macpherson, Alick, Millar, Lee, Stapley, Niall, Wlostowski, Tomasz
+   Attachments (2):
+     - 35-Barrientos_UCC.pdf (2098855 bytes)
+     - 35-Barrientos_UCC.pptx (21737031 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17470/
+   Description: As the use of SRF cavities continuously increases at CERN, testing facilities are also being upgraded. Due to the variety of operating frequencies, ranging from 400 MHz to 1.3 GHz, a generic cavity co...
+
+5. [20] Compensating for Amplifier Non-Linearity in a SEL Controller
+   Type: Oral
+   Date/Time: 2025-10-14 09:25:00 (20 min)
+   Speakers: Sankar Raman, Shrividhyaa
+   Primary Authors: Sankar Raman, Shrividhyaa
+   Co-authors: Varghese, Philip, Guran, Matei, Reyes, Lennon
+   Attachments (1):
+     - Compensating for Amplifier Non-Linearity in a SEL Controller.pptx (6155583 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17429/
+   Description: The SEL architecture used commonly in  CW superconducting linacs is a positive feedback system that requires determining the correct limits for the operating conditions to ensure stable operation. The...
+
+6. [87] Seven Years of RF Fault Identification at JLAB
+   Type: Oral
+   Date/Time: 2025-10-14 17:30:00 (20 min)
+   Speakers: Powers, Tom
+   Primary Authors: Powers, Tom
+   Attachments (1):
+     - Tom Powers C100 Fault waveforms JLAB LLRF2025.pptx (22202767 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17450/
+   Description: The digital low level RF systems that are used to operate 17 of the 53 cryomodules that are installed in CEBAF have the capability to log 17 waveforms either on demand or when one of the cavities in t...
+
+7. [103] Progress in Advanced Ferroelectric Technologies for Fast SRF Cavity Tuning
+   Type: Oral
+   Date/Time: 2025-10-14 11:50:00 (20 min)
+   Speakers: Kanareykin, Alexei
+   Primary Authors: Kanareykin, Alexei
+   Attachments (1):
+     - FINAL LLRF 2025 Kanareykin Talk.pptx (21236753 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17667/
+   Description: With the talk, we present recent developments of the high-power microwave components with their applications for SRF accelerators. The first example is the Ferroelectric Fast Reactive Tuner (FE-FRT) d...
+
+8. [39] The progress of LLRF control system for SC linac in IMP
+   Type: Oral
+   Date/Time: 2025-10-14 09:05:00 (20 min)
+   Speakers: Gao, Zheng
+   Primary Authors: Gao, Zheng
+   Attachments (1):
+     - talk_Gao.pdf (3813082 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17476/
+   Description: The large scientific and technology facility of CiADS and HiAF, which powered by superconducting linac is under construction, and faces many technological challenges. The low level RF control system h...
+
+9. [96] System identifications of superconducting cavity parameters with recursive least squares algorithms
+   Type: Oral
+   Date/Time: 2025-10-14 17:10:00 (20 min)
+   Speakers: Ziemann, Volker
+   Primary Authors: Ziemann, Volker
+   Attachments (3):
+     - vz-llrf-251014.pdf (814849 bytes)
+     - vz-llrf-251014.pdf (1368948 bytes)
+     - vz-llrf-251014v2.pdf (1368948 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17520/
+   Description: Based on analyzing the forward and transmitted signals we describe
+algorithms to continuously improve estimates of cavity parameters,
+such as bandwidth and detuning. We also discuss the trade-off be...
+
+10. [9] LLRF Progress at FRIB: from Commissioning to Operation and Future Directions
+   Type: Oral
+   Date/Time: 2025-10-14 10:05:00 (20 min)
+   Speakers: Kunjir, Shriraj
+   Primary Authors: Kunjir, Shriraj
+   Co-authors: Morris, Dan, Zhao, Shen
+   Attachments (1):
+     - LLRF Progress at FRIB from Commissioning to Operation and Future - Submit.pptx (33971410 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17482/
+   Description: The Facility for Rare Isotope Beams (FRIB) was fully commissioned in 2021 and began user operations in May 2022. This talk provides an update on Low-Level Radio Frequency (LLRF) system activities at F...
+
+11. [42] RF Phase Drift Measurements Using Two-tone Scheme
+   Type: Oral
+   Date/Time: 2025-10-14 16:40:00 (30 min)
+   Speakers: Grzegrzółka, Maciej
+   Primary Authors: Šerlat, Andžej, Czuba, Krzysztof, Grzegrzółka, Maciej
+   Attachments (1):
+     - TwoTone_LLRF25.pdf (1267240 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17409/
+   Description: Modern linear accelerators require more precise phase drift stability of RF reference signals. Various stabilization schemes were developed to ensure proper phase stability. This contribution presents...
+
+12. [107] Amplifier Additive Phase Modulation Noise Characterization and Testing and Theoretical Discussion of White and Flicker Noise Processes in both Small and Large Signal Regions of Operation
+   Type: Oral
+   Date/Time: 2025-10-14 13:20:00 (50 min)
+   Speakers: Merenda, Joseph
+   Primary Authors: Merenda, Joseph
+   Attachments (1):
+     - MCL_Merenda_Additive Phase Noise_LLRF2025_r2.pptx (10339377 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17724/
+   Description: Amplifier Additive Phase Modulation (APM) noise performance is a critical and often overlooked parameter which may significantly impact the signal integrity of Communication, RADAR, EW, Synthesizer, F...
+
+13. [79] LLRF COMMISSIONING OF THE CEBAF C75 UPGRADES SAM 2024/2025
+   Type: Poster
+   Date/Time: 2025-10-14 15:05:00 (5 min)
+   Speakers: Geesaman, Michael
+   Primary Authors: Mounts, Clyde, Latshaw, James, Tiskumara, Jayendrika, Settle, Joshua, Geesaman, Michael, Bachimanchi, Rama, Plawski, Tomasz
+   Attachments (1):
+     - LLRFW_2025_Poster.pptx (1198819 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17462/
+   Description: One easily overlooked component of Low-Level Radio Frequency (LLRF) design is the commissioning of new system installations.  During Jefferson Lab’s (JLab) 2024 Scheduled Accelerator Maintenance (SAM)...
+
+14. [22] Update on the Fermilab Mu2e LLRF System
+   Type: Poster
+   Date/Time: 2025-10-14 15:00:00 (1 min)
+   Speakers: Guran, Matei
+   Primary Authors: Guran, Matei
+   Co-authors: Varghese, Philip, Sankar Raman, Shrividhyaa, Reyes, Lennon
+   Attachments (1):
+     - LLRF2025_Poster.pdf (1073421 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17416/
+   Description: The LLRF system for the Mu2e project shares the same primary LLRF hardware as the Muon g-2 experiment which concluded its run last year. Commissioning of the subsystems for the Mu2e experiment is star...
+
+15. [111] The status of the RFPI systems development and preparation for the PIP-II project
+   Type: Poster
+   Date/Time: 2025-10-14 16:01:00 (1 min)
+   Speakers: Cichalewski, Wojciech
+   Primary Authors: Cichalewski, Wojciech
+   Co-authors: Pękosławski, Bartosz, Jabłoński, Grzegorz, Holzbauer, Jeremiah, Kłys, Kacper, Patel, Niral, Marciniak, Paweł, Varghese, Philip, Amrozik, Piotr, Kiełbik, Rafał, Kotas, Rafał, Jalmuzna, Wojciech, Tylman, Wojciech
+   URL: https://indico.jlab.org/event/939/contributions/17854/
+   Description: Ranging from detecting a slow temperature rise to responding rapidly to
+excessive current flow in the coupler bias high-voltage circuit, and up
+to detecting stray RF signals, the Radio Frequency Pro...
+
+16. [56] Future Upgrades to the LANSCE Accelerator
+   Type: Poster
+   Date/Time: 2025-10-14 15:20:00 (1 min)
+   Speakers: Van Rooy, Paula
+   Primary Authors: Van Rooy, Paula
+   Co-authors: Castellano, Lawrence, Brown, Michael, Torrez, Phillip, Dahal, Rupak, Kwon, Sungil
+   URL: https://indico.jlab.org/event/939/contributions/17484/
+   Description: The Los Alamos Neutron Science Center (LANSCE) Accelerator is in the initial planning stages to upgrade the front-end of LANSCE, a project known as the Los Alamos Modernization Project (LAMP). As a pa...
+
+17. [75] Fast DAQ for Machine Learning
+   Type: Poster
+   Date/Time: 2025-10-14 16:00:00 (1 min)
+   Speakers: Latshaw, James
+   Primary Authors: Hovater, Curt, Turner, Dennis, Latshaw, James, Tiskumara, Jayendrika, Bachimanchi, Rama, Plawski, Tomasz
+   Attachments (1):
+     - DAQ_llrf_workshop_25.pdf (2182084 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17402/
+   Description: At the LLRF 2023 conference, Jefferson Lab’s Fast DAQ for Machine Learning was shared. This system equips the legacy CAMAC zones with a digital fast data acquisition system which samples and reports a...
+
+18. [34] Initial commissioning of the new beam control system of the Proton Synchrotron at CERN
+   Type: Poster
+   Date/Time: 2025-10-14 14:10:00 (1 min)
+   Speakers: Barrientos, Diego
+   Primary Authors: Barrientos, Diego
+   Co-authors: Brischetto, Ylenia, Damerau, Heiko, Diaz Ferreira, Francisco Javier, Findlay, Alan, Gavric, Toma, Geis, Korbinian, Lasheen, Alexandre, Woolley, Benjamin
+   Attachments (1):
+     - 34-Barrientos_PS.pdf (570556 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17415/
+   Description: The Proton Synchrotron (PS), CERN’s first synchrotron, delivers proton and ion beams with intensities covering almost four orders of magnitude using 25 RF cavities with frequencies ranging from 0.4 to...
+
+19. [23] Warm Front End upgrade for the PIP-II Linac
+   Type: Poster
+   Date/Time: 2025-10-14 14:45:00 (1 min)
+   Speakers: Reyes, Lennon
+   Primary Authors: Reyes, Lennon
+   Co-authors: Varghese, Philip, Sankar Raman, Shrividhyaa, Guran, Matei
+   Attachments (1):
+     - LLRF_Workshop2025_WFE_LReyes.pdf (1671485 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17469/
+   Description: The warm front end for the PIP-II linac consists of an Ion-source an RFQ and four buncher cavities. The LLRF systems for these were the first ones developed more than a decade ago for use at the test ...
+
+20. [15] Design, characterization and commissioning of X-band LLRF systems for the TEX RF upgrade at LNF-INFN
+   Type: Poster
+   Date/Time: 2025-10-14 14:50:00 (1 min)
+   Speakers: Piersanti, Luca
+   Primary Authors: Piersanti, Luca
+   Co-authors: Gallo, Alessandro, Serenellini, Beatrice, Cardelli, Fabio, Scarselletta, Giorgio, Latini, Giuila, Bellaveglia, Marco, Scampati, Michele, Magnanimi, Riccardo, Quaglia, Sergio, Tocci, Simone, Pioli, Stefano, Fang, Xianghe
+   URL: https://indico.jlab.org/event/939/contributions/17421/
+   Description: The TEX (Test-stand for X-band) facility at LNF-INFN was established in 2021 and commissioned in 2022. It serves as an R&D center for X-band technology, supporting activities from waveguide component ...
+
+21. [105] Progress review of the cavity characterization and LLRF operation support tools for ESS by TUL-DMCS
+   Type: Poster
+   Date/Time: 2025-10-14 15:45:00 (5 min)
+   Speakers: Cichalewski, Wojciech
+   Primary Authors: Meiano, Cecilia, Jabłoński, Grzegorz, Kłys, Kacper, Nabywaniec, Mateusz, Pierini, Paolo, Kiełbik, Rafał, Cichalewski, Wojciech, Tylman, Wojciech
+   URL: https://indico.jlab.org/event/939/contributions/17700/
+   Description: Covering topics such as temperature-dependent capacitance of piezo actuators, fast tuner range and polarity determination, Lorentz force detuning coefficient, cavity mechanical response and π-mode det...
+
+22. [78] Local Oscillator Conditioner for the Electron Ion Collider
+   Type: Poster
+   Date/Time: 2025-10-14 14:35:00 (5 min)
+   Speakers: Settle, Joshua
+   Primary Authors: Settle, Joshua
+   Co-authors: Mernick, Kevin
+   Attachments (1):
+     - Local Oscillator Conditioner for EIC.pptx (2806717 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17399/
+   Description: The Electron Ion Collider is an exciting collaborative effort to advance and invest in the future of nuclear physics and accelerator science. Part of this great effort includes designing a diverse set...
+
+23. [55] Status of LCLS-II-HE LLRF Project
+   Type: Poster
+   Date/Time: 2025-10-14 14:20:00 (5 min)
+   Speakers: CHEN, JING
+   Primary Authors: McCollough, Andre, Benwell, Andy, Chabot, Daron, Orrell, Darren, CHEN, JING, Diaz, Jorge, Penney, Keith, Doolittle, Larry, Russo, Lucas, Du, Qiang, Murthy, Shreeharshini, Hoobler, Sonya, Karthik, Vardani, Taylor, Zack
+   URL: https://indico.jlab.org/event/939/contributions/17434/
+   Description: The LCLS-II-HE project is a high-energy upgrade to the existing LCLS-II superconducting linac at SLAC, designed to increase the beam energy from 4 GeV to 8 GeV. This upgrade includes the addition of 1...
+
+24. [13] Reliable operation of PAL-XFEL LLRF
+   Type: Poster
+   Date/Time: 2025-10-14 14:25:00 (5 min)
+   Speakers: Hu, Jinyul
+   Primary Authors: Hu, Jinyul
+   Co-authors: Min, Chang-Ki
+   Attachments (1):
+     - LLRFWS2025_Poster_Jinyul_Hu.pdf (1444158 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17414/
+   Description: The PAL-XFEL LLRF and SSA systems have contributed to the stable operation of PAL-XFEL for nearly a decade with their reliability and robustness. Key achievements of these systems include the developm...
+
+25. [41] Minimum-Latency Optical Data Acquisition Link (Modal)
+   Type: Poster
+   Date/Time: 2025-10-14 14:55:00 (5 min)
+   Speakers: Grzegrzółka, Maciej
+   Primary Authors: Grzegrzółka, Maciej
+   Co-authors: Rosengren, Kaj, Czuba, Krzysztof, Jatczak, Paweł
+   URL: https://indico.jlab.org/event/939/contributions/17472/
+   Description: The European Spallation Source (ESS) beam instrumentation generates over 100 gigabytes of data per second from over 100 subsystems along the whole ESS linac. Currently, the data is only processed loca...
+
+26. [88] The Development of an Ultra-Low Phase Noise Source for Electron-Ion Collider Crab Cavities
+   Type: Poster
+   Date/Time: 2025-10-14 15:10:00 (5 min)
+   Speakers: McCooey, Michael
+   Primary Authors: McCooey, Michael
+   Co-authors: Singh, Arshdeep, Severino, Freddy, Narayan, Geetha, Mernick, Kevin, Fahey, Kyle, Mai, Samson
+   Attachments (1):
+     - mmccooey_LLRF Workshop 2025_Rev 3.pdf (1508366 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17458/
+   Description: The Electron-Ion Collider (EIC) is a long-term project to design and construct a facility to collide high energy polarized electron beams with polarized proton and heavy ion beams at center of mass en...
+
+27. [86] RF commissioning at SHINE injector
+   Type: Poster
+   Date/Time: 2025-10-14 15:50:00 (5 min)
+   Speakers: zhao, Yubin
+   Primary Authors: zhao, Yubin
+   Co-authors: Wu, Hailong, Jiang, Hongru, Xu, Kai, Chang, Qiang, Yang, Wenfeng, zheng, Xiang, Huang, Xuefang, Yu, Yuechao, Zhang, Zhigang
+   URL: https://indico.jlab.org/event/939/contributions/17423/
+   Description: The SHINE injector consists of an electron gun, a bunching cavity, a single-cavity cryo-module, and an 8-9 cell cryo-module. It has now completed commissioning, with an output energy of 100 MeV and an...
+
+28. [32] Modernizing SLAC’s NC LINAC LLRF System with the LEMP Platform
+   Type: Poster
+   Date/Time: 2025-10-14 15:15:00 (5 min)
+   Speakers: Sawai, Nashat
+   Primary Authors: Sawai, Nashat
+   Attachments (1):
+     - LCLS NC LLRF.pdf (2542423 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17432/
+   Description: The Linac Electronics Modernization Plan (LEMP) replaces the aging CAMAC-based low-level RF (LLRF) controls in SLAC’s normal-conducting LINAC. The new system is based on the open-source Marble FPGA ca...
+
+29. [90] LLRF system upgrade of Argonne Wakefield Accelerator Facility
+   Type: Poster
+   Date/Time: 2025-10-14 15:25:00 (5 min)
+   Speakers: Du, Qiang, Liu, Wanming
+   Primary Authors: Ody, Alexander, Whiteford, Charles, Wisniewski, Eric, Chen, Gongxiaohui, Power, John, Hlavenka, Josh, Penney, Keith, Doolittle, Larry, Russo, Lucas, Du, Qiang, Ji, Qing, Doran, Scott, Murthy, Shreeharshini, Liu, Wanming
+   URL: https://indico.jlab.org/event/939/contributions/17433/
+   Description: In collaboration with the Berkeley Accelerator Controls and Instrumentation Program, the Argonne Wakefield Accelerator Facility successfully completed an upgrade of its Low-Level Radio Frequency (LLRF...
+
+30. [71] LLRF for the L-Band Buncher in SHINE
+   Type: Poster
+   Date/Time: 2025-10-14 15:55:00 (1 min)
+   Speakers: Zhang, Zhigang
+   Primary Authors: Zhang, Zhigang
+   Co-authors: Wu, Hailong, Jiang, Hongru, Yang, Wenfeng, Zheng, Xiang, Kai, Xu, Huang, Xuefang, Yu, Yuechao, Zhao, Yubin
+   URL: https://indico.jlab.org/event/939/contributions/17443/
+   Description: In the Hard X-ray Free Electron Laser (SHINE), the normal-conducting L-band buncher is critical for compressing electron bunches, significantly improving beam quality to meet stringent low-emittance a...
+
+31. [19] Testing the DAE LLRF system with a PIP-II SSR2 Cavity
+   Type: Poster
+   Date/Time: 2025-10-14 15:40:00 (5 min)
+   Speakers: Sankar Raman, Shrividhyaa
+   Primary Authors: Nasery, Radhika
+   Co-authors: Varghese, Philip, Sankar Raman, Shrividhyaa, Guran, Matei, Reyes, Lennon, Agashe, Alok
+   Attachments (1):
+     - poster1.3.pdf (1155031 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17483/
+   Description: The PIP-II linac is an international collaboration project with in kind contributions of key subsystems from multiple countires including India(DAE).  In the research and development phase of the proj...
+
+32. [74] EIC Resonance and Interlocks Control
+   Type: Poster
+   Date/Time: 2025-10-14 14:15:00 (1 min)
+   Speakers: Latshaw, James
+   Primary Authors: Latshaw, James
+   Attachments (1):
+     - RISC_llrf_workshop_25.pdf (3026372 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17401/
+   Description: The Electron Ion Collider project is a large and exciting effort within the accelerator community. There will be 8 different styles of Cryomodule and as many varied styles of normal conducting cavitie...
+
+33. [53] Design of the Electron-Ion Collider Common Platform and Applications for RF Controls
+   Type: Poster
+   Date/Time: 2025-10-14 14:40:00 (1 min)
+   Speakers: Mernick, Kevin
+   Primary Authors: Mernick, Kevin
+   Co-authors: Severino, Freddy, Narayan, Geetha, Mai, Samson
+   Attachments (1):
+     - Common_Platform_for_LLRF_applications.pdf (2637960 bytes)
+   URL: https://indico.jlab.org/event/939/contributions/17427/
+   Description: The EIC Common Platform is a modular system architecture which will serve as the basis for EIC Accelerator Controls. It consists of an SoC-based carrier board with up to two independent pluggable FPGA...
+
+34. [57] Comparative Evaluation of Xilinx RFSoC Platform for Low-Level RF Systems
+   Type: Poster
+   Date/Time: 2025-10-14 15:35:00 (1 min)
+   Speakers: Murthy, Shreeharshini Dharanesh
+   Primary Authors: Murthy, Shreeharshini Dharanesh
+   Co-authors: Moore, Victoria, Du, Qiang, Jurado Lopez, Angel, Penney, Keith, Nett, David, Flugstad, Benjamin
+   URL: https://indico.jlab.org/event/939/contributions/17481/
+   Description: The rapid advancement of Radio Frequency System-on-Chip (RFSoC) technology from Xilinx (AMD) has enabled the integration of high-speed data converters and programmable logic within a single package. R...
+

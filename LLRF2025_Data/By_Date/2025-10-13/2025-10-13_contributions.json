@@ -1,0 +1,1136 @@
+{
+  "date": "2025-10-13",
+  "count": 16,
+  "contributions": [
+    {
+      "id": "98",
+      "db_id": 17530,
+      "friendly_id": 98,
+      "title": "BNL Lab Talk",
+      "type": "Oral",
+      "description": "This talk will review the LLRF activities at BNL for the Collider-Accelerator complex and the Electron-Ion Collider (EIC). Topics include analysis, specification and development of systems for the EIC as well as operational highlights for the Relativistic Heavy Ion Collider (RHIC) and its injector complex.",
+      "start_date": "2025-10-13",
+      "start_time": "11:42:00",
+      "end_date": "2025-10-13",
+      "end_time": "11:54:00",
+      "duration": 12,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17530/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Mernick, Kevin",
+          "first_name": "Kevin",
+          "last_name": "Mernick",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "23167"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Mernick, Kevin",
+          "first_name": "Kevin",
+          "last_name": "Mernick",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "23167"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Singh, Arshdeep",
+          "first_name": "Arshdeep",
+          "last_name": "Singh",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "23165"
+        },
+        {
+          "name": "Severino, Freddy",
+          "first_name": "Freddy",
+          "last_name": "Severino",
+          "affiliation": "Brookhaven National Labs",
+          "id": "23163"
+        },
+        {
+          "name": "Narayan, Geetha",
+          "first_name": "Geetha",
+          "last_name": "Narayan",
+          "affiliation": "Brookhaven National Lab",
+          "id": "23164"
+        },
+        {
+          "name": "Fahey, Kyle",
+          "first_name": "Kyle",
+          "last_name": "Fahey",
+          "affiliation": "Brookhaven National Lab",
+          "id": "23166"
+        },
+        {
+          "name": "McCooey, Michael",
+          "first_name": "Michael",
+          "last_name": "McCooey",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "23168"
+        },
+        {
+          "name": "Mai, Samson",
+          "first_name": "Samson",
+          "last_name": "Mai",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "23162"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21586,
+          "title": "BNL_C-AD_EIC_LLRF.pdf",
+          "filename": "BNL_C-AD_EIC_LLRF.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17530/attachments/13396/21586/BNL_C-AD_EIC_LLRF.pdf",
+          "content_type": "application/pdf",
+          "size": 4754856,
+          "modified_dt": "2025-10-12T03:10:19.667662+00:00",
+          "is_protected": false
+        },
+        {
+          "id": 21585,
+          "title": "BNL_C-AD_EIC_LLRF.pptx",
+          "filename": "BNL_C-AD_EIC_LLRF.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17530/attachments/13396/21585/BNL_C-AD_EIC_LLRF.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 100487145,
+          "modified_dt": "2025-10-12T03:10:10.206680+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 2,
+      "keywords": []
+    },
+    {
+      "id": "94",
+      "db_id": 17510,
+      "friendly_id": 94,
+      "title": "Crab Cavity Low-Level RF in hadron machines",
+      "type": "Oral",
+      "description": "The Crab Cavity Low-Level RF systems in hadron machines will have to reduce the Crab Cavity impedance to prevent transverse instabilities, while regulating the crabbing voltage and minimizing the Radio Frequency noise levels injected to the beam. These are challenging and partly conflicting requirements. In this talk, I will summarize the studies that set the Crab Cavity LLRF specifications and guide the design. I will also present possible trade-offs in the architecture and identify the major challenges as these systems are designed, built, and commissioned.",
+      "start_date": "2025-10-13",
+      "start_time": "13:15:00",
+      "end_date": "2025-10-13",
+      "end_time": "14:05:00",
+      "duration": 50,
+      "location": "Newport News Marriott at City Center",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17510/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Mastoridis, Themis",
+          "first_name": "Themis",
+          "last_name": "Mastoridis",
+          "affiliation": "California Polytechnic State University, San Luis Obispo",
+          "id": "23128"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Mastoridis, Themis",
+          "first_name": "Themis",
+          "last_name": "Mastoridis",
+          "affiliation": "California Polytechnic State University, San Luis Obispo",
+          "id": "23128"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21609,
+          "title": "LLRF25_TMastoridis.pdf",
+          "filename": "LLRF25_TMastoridis.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17510/attachments/13406/21609/LLRF25_TMastoridis.pdf",
+          "content_type": "application/pdf",
+          "size": 6369337,
+          "modified_dt": "2025-10-12T22:20:38.927320+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "60",
+      "db_id": 17454,
+      "friendly_id": 60,
+      "title": "LBNL Lab Talk",
+      "type": "Oral",
+      "description": "This presentation will highlight LLRF activities at LBNL, covering both our accelerators, the collaborations with other laboratories and some applications beyond accelerator controls.",
+      "start_date": "2025-10-13",
+      "start_time": "11:18:00",
+      "end_date": "2025-10-13",
+      "end_time": "11:30:00",
+      "duration": 12,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17454/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Ratti, Alessandro",
+          "first_name": "Alessandro",
+          "last_name": "Ratti",
+          "affiliation": "",
+          "id": "22953"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Ratti, Alessandro",
+          "first_name": "Alessandro",
+          "last_name": "Ratti",
+          "affiliation": "",
+          "id": "22953"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "36",
+      "db_id": 17464,
+      "friendly_id": 36,
+      "title": "Multiharmonic enthusiast -- Applications of multiharmonic feedback in synchrotrons",
+      "type": "Oral",
+      "description": "Magnetic alloy (MA) cavities have wideband frequency responses, which allow multiharmonic rf voltage excitation in a single cavity. In the low level rf (LLRF) control system for the Japan Proton Accelerator Research Complex (J-PARC) Rapid Cycling Synchrotron (RCS) the multiharmonic vector rf voltage control feedback is implemented to realize the dual harmonic rf operation for bunch shaping and to compensate of the multiharmonic beam loading. The multiharmonic feedback consists of several classical IQ feedback blocks, and the RCS system has eight feedback blocks. Similar feedback systems are employed for the other proton synchrotrons, such as CERN PSB and CSNS. The possible application of multiharmonic feedback is not limited to bunch shaping using dual harmonic. Using triple harmonic operation, we can generate more flat rf buckets for realization of flatter bunches. Ultimately, barrier buckets can be generated using many harmonics. Other interesting application is generating a non-integer harmonic rf with several harmonics, which can be used for butch compression. In the presentation, we will explore these possible applications. We will also discuss important considerations when using multiharmonic feedback. One must be careful about the frequency response of the cavity voltage monitor to adjust the precise harmonic voltages. Another point is that unwanted cavity voltage jump may happen after fast extraction of a high intensity beam.",
+      "start_date": "2025-10-13",
+      "start_time": "14:05:00",
+      "end_date": "2025-10-13",
+      "end_time": "14:35:00",
+      "duration": 30,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17464/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Tamura, Fumihiko",
+          "first_name": "Fumihiko",
+          "last_name": "Tamura",
+          "affiliation": "Japan Atomic Energy Agency, J-PARC Center",
+          "id": "22997"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Tamura, Fumihiko",
+          "first_name": "Fumihiko",
+          "last_name": "Tamura",
+          "affiliation": "Japan Atomic Energy Agency, J-PARC Center",
+          "id": "22997"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21567,
+          "title": "LLRF2025_tamura_presentation.pdf",
+          "filename": "LLRF2025_tamura_presentation.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17464/attachments/13383/21567/LLRF2025_tamura_presentation.pdf",
+          "content_type": "application/pdf",
+          "size": 18691925,
+          "modified_dt": "2025-10-10T03:18:31.112809+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "11",
+      "db_id": 17405,
+      "friendly_id": 11,
+      "title": "DESY lab talk",
+      "type": "Oral",
+      "description": "Overview of the latest LLRF developments at DESY. This includes a short report on XFEL and FLASH operation and upgrades. Some R&D highlights related to the preparation work towards continuous wave operation of the European XFEL and DESY's involvement with the iSAS European project (Innovate for Sustainable Accelerator Systems) will also be presented.",
+      "start_date": "2025-10-13",
+      "start_time": "09:52:00",
+      "end_date": "2025-10-13",
+      "end_time": "10:04:00",
+      "duration": 12,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17405/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Branlard, Julien",
+          "first_name": "Julien",
+          "last_name": "Branlard",
+          "affiliation": "DESY",
+          "id": "22682"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Branlard, Julien",
+          "first_name": "Julien",
+          "last_name": "Branlard",
+          "affiliation": "DESY",
+          "id": "22682"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21621,
+          "title": "LLRF WS2025 - Julien Branlard - DESY lab talk.pdf",
+          "filename": "LLRF WS2025 - Julien Branlard - DESY lab talk.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17405/attachments/13354/21621/LLRF%20WS2025%20-%20Julien%20Branlard%20-%20DESY%20lab%20talk.pdf",
+          "content_type": "application/pdf",
+          "size": 4212624,
+          "modified_dt": "2025-10-13T01:58:19.846994+00:00",
+          "is_protected": false
+        },
+        {
+          "id": 21622,
+          "title": "LLRF WS2025 - Julien Branlard - DESY lab talk.pptx",
+          "filename": "LLRF WS2025 - Julien Branlard - DESY lab talk.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17405/attachments/13354/21622/LLRF%20WS2025%20-%20Julien%20Branlard%20-%20DESY%20lab%20talk.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 81168576,
+          "modified_dt": "2025-10-13T01:58:20.294769+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 2,
+      "keywords": []
+    },
+    {
+      "id": "24",
+      "db_id": 17461,
+      "friendly_id": 24,
+      "title": "Lab Talk - Fermilab",
+      "type": "Oral",
+      "description": "An update on the various projects at Fermilab including PIP-II,  Mu2e ,  LBNF and the various test stands",
+      "start_date": "2025-10-13",
+      "start_time": "10:04:00",
+      "end_date": "2025-10-13",
+      "end_time": "10:16:00",
+      "duration": 12,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17461/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Varghese, Philip",
+          "first_name": "Philip",
+          "last_name": "Varghese",
+          "affiliation": "Fermilab",
+          "id": "22988"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Varghese, Philip",
+          "first_name": "Philip",
+          "last_name": "Varghese",
+          "affiliation": "Fermilab",
+          "id": "22988"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21647,
+          "title": "Fermilab_Lab_Talk_2025.pdf",
+          "filename": "Fermilab_Lab_Talk_2025.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17461/attachments/13405/21647/Fermilab_Lab_Talk_2025.pdf",
+          "content_type": "application/pdf",
+          "size": 2604034,
+          "modified_dt": "2025-10-13T13:02:04.449053+00:00",
+          "is_protected": false
+        },
+        {
+          "id": 21648,
+          "title": "Fermilab_Lab_Talk_2025.pptx",
+          "filename": "Fermilab_Lab_Talk_2025.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17461/attachments/13405/21648/Fermilab_Lab_Talk_2025.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 42445273,
+          "modified_dt": "2025-10-13T13:02:04.785923+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 2,
+      "keywords": []
+    },
+    {
+      "id": "16",
+      "db_id": 17418,
+      "friendly_id": 16,
+      "title": "New RF control system developments at LNF-INFN",
+      "type": "Oral",
+      "description": "SPARC_LAB is a high-brightness e-beam for SASE-FEL (self-amplified spontaneous emission-FEL) experiments. It consists of a brazeless 1.6-cell S-band RF gun, two travelling wave S-band accelerating structures each 3 meters long, and a 1.4-meter C-band structure that acts as an energy booster. As part of the SABINA project, co-funded by the Lazio Regional Government for consolidation of SPARC_LAB, a significant upgrade of the RF control systems was completed last year. The activity involved the development of software for remote control of LLRF systems, C-band modulator, as well as custom hardware made by the RF service for fast feedbacks and RF synchronization. Algorithms were also developed for statistical and diagnostic analysis of RF signals, with real-time amplitude and phase jitter monitoring capabilities. Development of a custom EPICS application aimed at optimizing system resources is currently underway. Finally, to support conditioning operations, dedicated software has been implemented for automatic RF plant management, which dynamically adjusts RF power and manages interlocks under critical conditions.",
+      "start_date": "2025-10-13",
+      "start_time": "17:25:00",
+      "end_date": "2025-10-13",
+      "end_time": "17:45:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17418/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Serenellini, Beatrice",
+          "first_name": "Beatrice",
+          "last_name": "Serenellini",
+          "affiliation": "INFN - LNF",
+          "id": "22743"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Serenellini, Beatrice",
+          "first_name": "Beatrice",
+          "last_name": "Serenellini",
+          "affiliation": "INFN - LNF",
+          "id": "22743"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Gallo, Alessandro",
+          "first_name": "Alessandro",
+          "last_name": "Gallo",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22744"
+        },
+        {
+          "name": "Michelotti, Andrea",
+          "first_name": "Andrea",
+          "last_name": "Michelotti",
+          "affiliation": "LNF-INFN",
+          "id": "22746"
+        },
+        {
+          "name": "Scarselletta, Giorgio",
+          "first_name": "Giorgio",
+          "last_name": "Scarselletta",
+          "affiliation": "LNF-INFN",
+          "id": "22745"
+        },
+        {
+          "name": "Latini, Giulia",
+          "first_name": "Giulia",
+          "last_name": "Latini",
+          "affiliation": "LNF-INFN",
+          "id": "22742"
+        },
+        {
+          "name": "Piersanti, Luca",
+          "first_name": "Luca",
+          "last_name": "Piersanti",
+          "affiliation": "INFN-LNF",
+          "id": "22750"
+        },
+        {
+          "name": "Bellaveglia, Marco",
+          "first_name": "Marco",
+          "last_name": "Bellaveglia",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22748"
+        },
+        {
+          "name": "Magnanimi, Riccardo",
+          "first_name": "Riccardo",
+          "last_name": "Magnanimi",
+          "affiliation": "LNF-INFN",
+          "id": "22749"
+        },
+        {
+          "name": "Tocci, Simone",
+          "first_name": "Simone",
+          "last_name": "Tocci",
+          "affiliation": "LNF-INFN",
+          "id": "22747"
+        },
+        {
+          "name": "Fang, Xianghe",
+          "first_name": "Xianghe",
+          "last_name": "Fang",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22741"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21685,
+          "title": "New_RF_control_system_developments_at_LNF-INFN.pptx",
+          "filename": "New_RF_control_system_developments_at_LNF-INFN.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17418/attachments/13384/21685/New_RF_control_system_developments_at_LNF-INFN.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 76719844,
+          "modified_dt": "2025-10-13T19:18:28.574638+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "6",
+      "db_id": 17090,
+      "friendly_id": 6,
+      "title": "JLAB talk",
+      "type": "Oral",
+      "description": "The presentation will highlight key LLRF developments at Jefferson Lab, including the  Electron-Ion Collider (EIC) and the Proton Improvement Plan II (PIP-II).",
+      "start_date": "2025-10-13",
+      "start_time": "11:06:00",
+      "end_date": "2025-10-13",
+      "end_time": "11:18:00",
+      "duration": 12,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17090/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Plawski, Tomasz",
+          "first_name": "Tomasz",
+          "last_name": "Plawski",
+          "affiliation": "Jefferson Lab",
+          "id": "22354"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Plawski, Tomasz",
+          "first_name": "Tomasz",
+          "last_name": "Plawski",
+          "affiliation": "Jefferson Lab",
+          "id": "22354"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Latshaw, James",
+          "first_name": "James",
+          "last_name": "Latshaw",
+          "affiliation": "Jefferson Lab",
+          "id": "22355"
+        },
+        {
+          "name": "Tiskumara, Jayendrika",
+          "first_name": "Jayendrika",
+          "last_name": "Tiskumara",
+          "affiliation": "Jefferson Lab",
+          "id": "22356"
+        },
+        {
+          "name": "Settle, Joshua",
+          "first_name": "Joshua",
+          "last_name": "Settle",
+          "affiliation": "Jefferson Lab",
+          "id": "22357"
+        },
+        {
+          "name": "Geesaman, Michael",
+          "first_name": "Michael",
+          "last_name": "Geesaman",
+          "affiliation": "Jefferson Lab",
+          "id": "22359"
+        },
+        {
+          "name": "Bachimanchi, Rama",
+          "first_name": "Rama",
+          "last_name": "Bachimanchi",
+          "affiliation": "Jefferson Lab",
+          "id": "22358"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21605,
+          "title": "CEBAF-Overview-LLRF-2025-Seryi-r2.pptx",
+          "filename": "CEBAF-Overview-LLRF-2025-Seryi-r2.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17090/attachments/13404/21605/CEBAF-Overview-LLRF-2025-Seryi-r2.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 64471949,
+          "modified_dt": "2025-10-12T21:35:48.160439+00:00",
+          "is_protected": false
+        },
+        {
+          "id": 21606,
+          "title": "JLAB_2025_lab_talk_plawski_final.pptx",
+          "filename": "JLAB_2025_lab_talk_plawski_final.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17090/attachments/13404/21606/JLAB_2025_lab_talk_plawski_final.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 57829515,
+          "modified_dt": "2025-10-12T21:36:44.373320+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 2,
+      "keywords": []
+    },
+    {
+      "id": "93",
+      "db_id": 17412,
+      "friendly_id": 93,
+      "title": "High-Precision LLRF System for the upgrade of SXFEL",
+      "type": "Oral",
+      "description": "A high-performance low-level radio frequency (LLRF) control system based on ZYNQ MPsoc has been developed to enable the digital and intelligent upgrade of Shanghai Soft X-ray Free-Electron Laser (SXFEL). It includes 8 channels of 310 MSPS 16-bit ADCs and 2 channels of 500 MSPS 16-bit DACs, capable of outputting continuous wave and pulse wave signals, respectively. The LLRF control system is equipped with an FMC(LPC) interface to communicate with the White Rabbit(WR) device in the control system, providing feedback on the SXFEL' s orbit, focusing, and beam energy states. In experimental measurements on SXFEL, the LLRF system achieves a amplitude stability of 0.016% (RMS) and a phase stability of 0.015o at pulse compressor output.",
+      "start_date": "2025-10-13",
+      "start_time": "14:35:00",
+      "end_date": "2025-10-13",
+      "end_time": "14:55:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17412/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "XIAO, CHENGCHENG",
+          "first_name": "CHENGCHENG",
+          "last_name": "XIAO",
+          "affiliation": "SHANGHAI ADVANCED RESEARCH INSTITUTE",
+          "id": "22717"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "XIAO, CHENGCHENG",
+          "first_name": "CHENGCHENG",
+          "last_name": "XIAO",
+          "affiliation": "SHANGHAI ADVANCED RESEARCH INSTITUTE",
+          "id": "22717"
+        },
+        {
+          "name": "Fang, Wencheng",
+          "first_name": "Wencheng",
+          "last_name": "Fang",
+          "affiliation": "",
+          "id": "22716"
+        },
+        {
+          "name": "XU, YIMING",
+          "first_name": "YIMING",
+          "last_name": "XU",
+          "affiliation": "SARI",
+          "id": "22715"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21613,
+          "title": "High-Precision LLRF System for the upgrade of SXFEL.pptx",
+          "filename": "High-Precision LLRF System for the upgrade of SXFEL.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17412/attachments/13348/21613/High-Precision%20LLRF%20System%20for%20the%20upgrade%20of%20SXFEL.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 25199681,
+          "modified_dt": "2025-10-13T00:40:40.500277+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "47",
+      "db_id": 17445,
+      "friendly_id": 47,
+      "title": "Development of new DLLRF for ALBA and ALBAII, for the main and for the 3rd harmonic RF systems",
+      "type": "Oral",
+      "description": "ALBA Low-Level RF (LLRF) system has provided over a decade reliable operation and has been adopted by other synchrotron facilities. To meet the evolving requirements of ALBA and ALBA-II, a new LLRF system has been developed for the current fundamental RF system and the future active normal conducting harmonic RF system. This new LLRF features FPGA and ADC/DAC µTCA boards designed by Safran, enabling direct 500 MHz signal sampling without down/up-conversion for the main RF system, while it requires an intermediate frequency in the case of the harmonic system performed in the RTM board itself. These enhancements reduce system complexity, minimize noise, and simplify maintenance. Safran also supplies peripheral modules and the Tango device server generator, while ALBA implemented it and developed a new GUI. Upgraded Digital and RF signal front-ends complement the new hardware. The legacy VHDL code has been updated to improve readability and functionality, incorporating advanced features such as octant selection and a harmonic direct feedback selection method. The latter, based on IIR filtering, isolates positive and negative revolution harmonics in the I/Q domain, feeding them back to amplifiers to effectively mitigate transient beam loading caused by the storage ring bunch train gaps. This upgraded LLRF system delivers enhanced performance and greater flexibility to address the future needs of ALBA and ALBA-II.",
+      "start_date": "2025-10-13",
+      "start_time": "16:35:00",
+      "end_date": "2025-10-13",
+      "end_time": "17:05:00",
+      "duration": 30,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17445/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Solans, Pol",
+          "first_name": "Pol",
+          "last_name": "Solans",
+          "affiliation": "ALBA Synchrotron",
+          "id": "22913"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Solans, Pol",
+          "first_name": "Pol",
+          "last_name": "Solans",
+          "affiliation": "ALBA Synchrotron",
+          "id": "22913"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Perez, Francis",
+          "first_name": "Francis",
+          "last_name": "Perez",
+          "affiliation": "ALBA Synchrotron",
+          "id": "22914"
+        },
+        {
+          "name": "Shaker, Hamed",
+          "first_name": "Hamed",
+          "last_name": "Shaker",
+          "affiliation": "ALBA Synchrotron",
+          "id": "22915"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21639,
+          "title": "Development of new DLLRF for ALBA and ALBAII, for the main and for the 3rd harmonic RF systems.pptx",
+          "filename": "Development of new DLLRF for ALBA and ALBAII, for the main and for the 3rd harmonic RF systems.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17445/attachments/13390/21639/Development%20of%20new%20DLLRF%20for%20ALBA%20and%20ALBAII,%20for%20the%20main%20and%20for%20the%203rd%20harmonic%20RF%20systems.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 24128766,
+          "modified_dt": "2025-10-13T10:35:20.368264+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "68",
+      "db_id": 17468,
+      "friendly_id": 68,
+      "title": "Reverse phase operation for CERN's FCC-ee 400 MHz RF system: Increasing flexibility brings challenges for cavity control",
+      "type": "Oral",
+      "description": "CERN's planned Future Circular electron-positron collider (FCC-ee) must accommodate very different RF system requirements at different energy points, driven by a fixed synchrotron radiation power budget of 100 MW. Recently, a unified RF cavity design with constant loaded quality factor suitable for three beam energies (45.6, 80, and 120 GeV) was adopted as the baseline. The new RF system implementation requires the inclusion of the reverse phase operation (RPO) scheme for the Z operating point (45.6 GeV). In this contribution, the main principles of the RPO scheme are first explained. The need to mitigate the enhancement of transient beam loading due to the RPO scheme is described, along with the corresponding LLRF and HLRF requirements to achieve precise control of the cavity field. Finally, the dynamics of the beam and RF system in the event of RF system failures are analyzed, including a detailed implementation of LLRF loops and interlocks.",
+      "start_date": "2025-10-13",
+      "start_time": "14:55:00",
+      "end_date": "2025-10-13",
+      "end_time": "15:15:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17468/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Karpov, Ivan",
+          "first_name": "Ivan",
+          "last_name": "Karpov",
+          "affiliation": "CERN",
+          "id": "23023"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Karpov, Ivan",
+          "first_name": "Ivan",
+          "last_name": "Karpov",
+          "affiliation": "CERN",
+          "id": "23023"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21672,
+          "title": "LLRF_2025_IK.pptx",
+          "filename": "LLRF_2025_IK.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17468/attachments/13433/21672/LLRF_2025_IK.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 19489421,
+          "modified_dt": "2025-10-13T17:34:49.329356+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "100",
+      "db_id": 17533,
+      "friendly_id": 100,
+      "title": "China Lab Talk",
+      "type": "Oral",
+      "description": "",
+      "start_date": "2025-10-13",
+      "start_time": "10:46:00",
+      "end_date": "2025-10-13",
+      "end_time": "11:06:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17533/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Gao, Zheng",
+          "first_name": "Zheng",
+          "last_name": "Gao",
+          "affiliation": "",
+          "id": "23591"
+        }
+      ],
+      "primary_authors": [],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21711,
+          "title": "China_lab talk.pdf",
+          "filename": "China_lab talk.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17533/attachments/13453/21711/China_lab%20talk.pdf",
+          "content_type": "application/pdf",
+          "size": 7143527,
+          "modified_dt": "2025-10-14T14:32:26.348841+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "54",
+      "db_id": 17460,
+      "friendly_id": 54,
+      "title": "Overview of Electron Ion Collider RF Systems",
+      "type": "Oral",
+      "description": "Brookhaven National Laboratory (BNL) is the future home of Electron-Ion Collider (EIC) project that will be constructed in partnership with Thomas Jefferson National Accelerator Facility (Jefferson Lab, JLAB). The EIC proposal provides a design that utilizes the existing RHIC facility to produce hadron beams, including high-intensity polarized proton beams, to fully meet the requirements for a lasting research program with high potential for new discoveries. It is also planned as a cost-effective new facility with approximately 30 SRF cryomodules and 55 NCRF cavities that includes reuse of RHIC 28 MHz and 197 MHz cavities. Many systems are still developing but plenty of progress has been made on EIC RF Systems since it was last presented at LLRF Workshop 2022. The scope of the RF systems as currently defined at pre-construction design phase of the EIC project will be presented.",
+      "start_date": "2025-10-13",
+      "start_time": "15:15:00",
+      "end_date": "2025-10-13",
+      "end_time": "15:35:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17460/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Narayan, Geetha",
+          "first_name": "Geetha",
+          "last_name": "Narayan",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22984"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Narayan, Geetha",
+          "first_name": "Geetha",
+          "last_name": "Narayan",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22984"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Severino, Freddy",
+          "first_name": "Freddy",
+          "last_name": "Severino",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22986"
+        },
+        {
+          "name": "Mernick, Kevin",
+          "first_name": "Kevin",
+          "last_name": "Mernick",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22983"
+        },
+        {
+          "name": "Verdu Andres, Silvia",
+          "first_name": "Silvia",
+          "last_name": "Verdu Andres",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22985"
+        },
+        {
+          "name": "Conway, Zack",
+          "first_name": "Zack",
+          "last_name": "Conway",
+          "affiliation": "Thomas Jefferson National Accelerator Facility",
+          "id": "22987"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21623,
+          "title": "GN_LLRF2025_EIC_RF_Systems_Overview.pdf",
+          "filename": "GN_LLRF2025_EIC_RF_Systems_Overview.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17460/attachments/13398/21623/GN_LLRF2025_EIC_RF_Systems_Overview.pdf",
+          "content_type": "application/pdf",
+          "size": 6570139,
+          "modified_dt": "2025-10-13T02:05:07.204608+00:00",
+          "is_protected": false
+        },
+        {
+          "id": 21624,
+          "title": "GN_LLRF2025_EIC_RF_Systems_Overview.pptx",
+          "filename": "GN_LLRF2025_EIC_RF_Systems_Overview.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17460/attachments/13398/21624/GN_LLRF2025_EIC_RF_Systems_Overview.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 74254867,
+          "modified_dt": "2025-10-13T02:06:01.879920+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 2,
+      "keywords": []
+    },
+    {
+      "id": "73",
+      "db_id": 17422,
+      "friendly_id": 73,
+      "title": "LLRF activities at CERN",
+      "type": "Oral",
+      "description": "This talk will present an overview of the ongoing and future Low-Level RF (LLRF) activities at CERN, addressing the growing challenges of hardware obsolescence, support for legacy systems, and the need for long-term consolidation across the accelerator infrastructure. Major ongoing projects, such as the development of the Crab Cavity controller with beam noise feedback for the High Luminosity LHC, the LLRF system for AWAKE Run 2c, and ongoing efforts in supporting superconducting RF cavity testing through dedicated controls infrastructure will be covered.\r\n\r\nGoing forward, LLRF studies for the Future Circular Collider (FCC) are underway, with possible co-development activities foreseen with the LHC and electron injectors. In parallel, machine learning and AI techniques are being actively investigated for applications in diagnostics, anomaly detection, and real-time control optimization.",
+      "start_date": "2025-10-13",
+      "start_time": "09:40:00",
+      "end_date": "2025-10-13",
+      "end_time": "09:52:00",
+      "duration": 12,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17422/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Woolley, Ben",
+          "first_name": "Ben",
+          "last_name": "Woolley",
+          "affiliation": "CERN",
+          "id": "22774"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Woolley, Ben",
+          "first_name": "Ben",
+          "last_name": "Woolley",
+          "affiliation": "CERN",
+          "id": "22774"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21642,
+          "title": "CERN_Lab_Talk.pptx",
+          "filename": "CERN_Lab_Talk.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17422/attachments/13400/21642/CERN_Lab_Talk.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 35686814,
+          "modified_dt": "2025-10-13T11:57:03.098003+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "17",
+      "db_id": 17426,
+      "friendly_id": 17,
+      "title": "Achieving Ultra-Stable RF Control for Plasma Acceleration at LNF-INFN",
+      "type": "Oral",
+      "description": "The SPARC_LAB facility at LNF includes a high-brightness electron linac dedicated to plasma acceleration studies and R&D. Given the stringent stability requirements on electromagnetic fields, especially for particle-driven plasma acceleration, several upgrades have been implemented over the past two years to enhance RF stability and measurement accuracy. In 2024, the low-level RF system was completely refurbished, replacing the original analog systems with digital ones featuring temperature-stabilized front ends and arbitrary pulse shaping capabilities. Additionally, the intra-pulse phase feedback, originally commissioned in 2008 for the S-band klystrons, was upgraded. A new RF design, along with improved error amplifiers and signal acquisition electronics, was deployed and first tested on the machine in Fall 2024. Comprehensive short- and long-term measurements performed at SPARC_LAB confirm the system's ability to reliably and reproducibly reduce S-band klystron phase jitter down to 15 fs rms. The obtained results are now very close to the 10 fs limit demanded by plasma acceleration and represent a promising step toward meeting the requirements of future accelerator facilities.",
+      "start_date": "2025-10-13",
+      "start_time": "17:05:00",
+      "end_date": "2025-10-13",
+      "end_time": "17:25:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17426/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Piersanti, Luca",
+          "first_name": "Luca",
+          "last_name": "Piersanti",
+          "affiliation": "INFN-LNF",
+          "id": "22801"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Piersanti, Luca",
+          "first_name": "Luca",
+          "last_name": "Piersanti",
+          "affiliation": "INFN-LNF",
+          "id": "22801"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Gallo, Alessandro",
+          "first_name": "Alessandro",
+          "last_name": "Gallo",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22798"
+        },
+        {
+          "name": "Serenellini, Beatrice",
+          "first_name": "Beatrice",
+          "last_name": "Serenellini",
+          "affiliation": "INFN - LNF",
+          "id": "22797"
+        },
+        {
+          "name": "Scarselletta, Giorgio",
+          "first_name": "Giorgio",
+          "last_name": "Scarselletta",
+          "affiliation": "INFN-LNF",
+          "id": "22800"
+        },
+        {
+          "name": "Bellaveglia, Marco",
+          "first_name": "Marco",
+          "last_name": "Bellaveglia",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22799"
+        },
+        {
+          "name": "Magnanimi, Riccardo",
+          "first_name": "Riccardo",
+          "last_name": "Magnanimi",
+          "affiliation": "INFN-LNF",
+          "id": "22796"
+        },
+        {
+          "name": "Tocci, Simone",
+          "first_name": "Simone",
+          "last_name": "Tocci",
+          "affiliation": "INFN-LNF",
+          "id": "22794"
+        },
+        {
+          "name": "Fang, Xianghe",
+          "first_name": "Xianghe",
+          "last_name": "Fang",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22795"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21743,
+          "title": "Presentation_Piersanti_25.pdf",
+          "filename": "Presentation_Piersanti_25.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17426/attachments/13402/21743/Presentation_Piersanti_25.pdf",
+          "content_type": "application/pdf",
+          "size": 6996013,
+          "modified_dt": "2025-10-15T19:09:42.691140+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "89",
+      "db_id": 17424,
+      "friendly_id": 89,
+      "title": "Status of LLRF activities at SLAC",
+      "type": "Oral",
+      "description": "A status of LLRF activities at SLAC will be presented including operational accelerators and ongoing projects.",
+      "start_date": "2025-10-13",
+      "start_time": "11:30:00",
+      "end_date": "2025-10-13",
+      "end_time": "11:42:00",
+      "duration": 12,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17424/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Diaz Cruz, Jorge",
+          "first_name": "Jorge",
+          "last_name": "Diaz Cruz",
+          "affiliation": "SLAC",
+          "id": "23605"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Benwell, Andy",
+          "first_name": "Andy",
+          "last_name": "Benwell",
+          "affiliation": "SLAC",
+          "id": "22785"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21620,
+          "title": "SLAC Lab status.pptx",
+          "filename": "SLAC Lab status.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17424/attachments/13414/21620/SLAC%20Lab%20status.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 46950990,
+          "modified_dt": "2025-10-13T01:49:37.339392+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    }
+  ]
+}

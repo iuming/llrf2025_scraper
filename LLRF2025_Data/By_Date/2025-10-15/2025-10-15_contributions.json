@@ -1,0 +1,2566 @@
+{
+  "date": "2025-10-15",
+  "count": 32,
+  "contributions": [
+    {
+      "id": "82",
+      "db_id": 17441,
+      "friendly_id": 82,
+      "title": "Anomaly Detection in the CERN Proton Synchrotron RF Systems Using Machine Learning",
+      "type": "Oral",
+      "description": "The CERN Proton Synchrotron (PS) is equipped with several RF systems covering a wide range of revolution frequency harmonics. While the beam synchronous RF signal generation and cavity controllers are mostly digital, the global low-level RF beam loops still rely on analogue hardware. Upgrades to a fully digital system are underway. \r\n\r\nDigitizing additional key signals from the present beam control recently enabled the exploration of automated monitoring methods. Subtle RF issues such as parameter drifts and intermittent anomalies often go undetected, delaying diagnosis until beam quality degrades or operation is disrupted. To address this, we investigate machine learning-based anomaly detection models that aggregate information from low-level RF signals, beam diagnostics, and contextual data (e.g. magnetic field). These models seek to automatically detect abnormal behaviour and connect beam effects with underlying causes linked to the RF systems, supporting both real-time alerts and root-cause analysis. \r\n\r\nThis proactive, data-driven approach aims to shorten the response time to performance degradation, improve reliability, and support preventative maintenance of the PS RF systems.",
+      "start_date": "2025-10-15",
+      "start_time": "14:30:00",
+      "end_date": "2025-10-15",
+      "end_time": "14:50:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17441/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Wulff, Joel Axel",
+          "first_name": "Joel Axel",
+          "last_name": "Wulff",
+          "affiliation": "CERN",
+          "id": "22893"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Wulff, Joel Axel",
+          "first_name": "Joel Axel",
+          "last_name": "Wulff",
+          "affiliation": "CERN",
+          "id": "22893"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Lasheen, Alexandre",
+          "first_name": "Alexandre",
+          "last_name": "Lasheen",
+          "affiliation": "CERN",
+          "id": "22892"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21739,
+          "title": "LLRF25_Anomaly_Detection_CERN_PS_RF_v3.pptx",
+          "filename": "LLRF25_Anomaly_Detection_CERN_PS_RF_v3.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17441/attachments/13403/21739/LLRF25_Anomaly_Detection_CERN_PS_RF_v3.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 10095754,
+          "modified_dt": "2025-10-15T17:03:09.571210+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "95",
+      "db_id": 17509,
+      "friendly_id": 95,
+      "title": "Electromagnetic compatibility. Does it matter when everything is digital anyway?",
+      "type": "Oral",
+      "description": "With evolution of technology, accelerator RF systems are becoming more and more complex and dense. At the same time, requirements for performance, precision or noise floor are getting increasingly tighter. Electromagnetic compatibility and signal integrity must be part of the design right from the beginning regardless if is it a 1 MW RF amplifier or an FPGA sitting on a 10 layer printed board. \r\n\r\nIn this tutorial, we will recap basic principles of EMC and signal integrity and discuss some of the most popular problems on signal routing, printed boards, decoupling, cables, connectors, grounding, filtering or shielding.",
+      "start_date": "2025-10-15",
+      "start_time": "13:20:00",
+      "end_date": "2025-10-15",
+      "end_time": "14:10:00",
+      "duration": 50,
+      "location": "Newport News Marriott at City Center",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17509/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Valuch, Daniel",
+          "first_name": "Daniel",
+          "last_name": "Valuch",
+          "affiliation": "CERN",
+          "id": "23127"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Valuch, Daniel",
+          "first_name": "Daniel",
+          "last_name": "Valuch",
+          "affiliation": "CERN",
+          "id": "23127"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21756,
+          "title": "Electromagnetic compatibility - introduction.pdf",
+          "filename": "Electromagnetic compatibility - introduction.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17509/attachments/13461/21756/Electromagnetic%20compatibility%20-%20introduction.pdf",
+          "content_type": "application/pdf",
+          "size": 19523315,
+          "modified_dt": "2025-10-18T15:05:25.260894+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "77",
+      "db_id": 17451,
+      "friendly_id": 77,
+      "title": "Status of the ISIS Digital LLRF Systems",
+      "type": "Oral",
+      "description": "A digital LLRF system [1] has been successfully developed and deployed for control of the accelerating Voltages on the Ferrite loaded RF cavities on the ISIS Synchrotron over the last decade. The final stage of the digital control system has recently been completed which now includes digital control of the cavity tuning.\r\nSimilar National Instruments FPGA modules to those used in the Synchrotron LLRF system have been used to develop a LLRF control system for the RAL Front End Test Stand (FETS) [2]  and the ISIS Pre-Injector Test Stand (PITS) [3]. These systems are based on the digital LLRF system developed at the University of the Basque Country [4].\r\nThe RF system on FETS comprises of a Radiofrequency Quadrupole (RFQ) and 3 re-bunching cavities operating at 324MHz. That for PITS consists of an RFQ and 4 quarter wave resonator cavities all operating at 202.5MHz and is intended as a pre-cursor to the upgrade of the ISIS Pre-Injector planned for 2027, when the same LLRF control system will also be deployed on the 4 LINAC tanks and de-bunching cavity. Initial tests of the LLRF system have been made on one of the QWR cavities and both RFQs and will be continued as more cavities become available.\r\n\r\n 1. “Status of the ISIS Synchrotron Digital LLRF System” Seville et al,\r\n    LLRF 2022.\r\n 2. “Status of the RAL Front End Test Stand” Letchford et\r\n    al, IPAC 2015.\r\n 3. “The Pre-Injector Upgrade for the ISIS H− LINAC”\r\n    Lawrie et al, LINAC 2022.\r\n 4. “New PXIe-Based LLRF Architecture and Test Bench for Heavy Ion Linear Acceleration” Badillo et al, IEEE-NPSS Real Time Conference 2014",
+      "start_date": "2025-10-15",
+      "start_time": "10:50:00",
+      "end_date": "2025-10-15",
+      "end_time": "11:10:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17451/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Seville, Andrew",
+          "first_name": "Andrew",
+          "last_name": "Seville",
+          "affiliation": "UKRI",
+          "id": "22940"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Seville, Andrew",
+          "first_name": "Andrew",
+          "last_name": "Seville",
+          "affiliation": "UKRI",
+          "id": "22940"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Allen, David",
+          "first_name": "David",
+          "last_name": "Allen",
+          "affiliation": "UKRI",
+          "id": "22939"
+        },
+        {
+          "name": "Farthing, Neil",
+          "first_name": "Neil",
+          "last_name": "Farthing",
+          "affiliation": "UKRI",
+          "id": "22943"
+        },
+        {
+          "name": "Gardner, Ian",
+          "first_name": "Ian",
+          "last_name": "Gardner",
+          "affiliation": "UKRI",
+          "id": "22938"
+        },
+        {
+          "name": "Gibbs, David",
+          "first_name": "David",
+          "last_name": "Gibbs",
+          "affiliation": "UKRI",
+          "id": "22942"
+        },
+        {
+          "name": "Letchford, Alan",
+          "first_name": "Alan",
+          "last_name": "Letchford",
+          "affiliation": "UKRI",
+          "id": "22941"
+        },
+        {
+          "name": "Mathieson, Robert",
+          "first_name": "Robert",
+          "last_name": "Mathieson",
+          "affiliation": "UKRI",
+          "id": "22937"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21571,
+          "title": "Seville_LLRF_25.pptx",
+          "filename": "Seville_LLRF_25.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17451/attachments/13387/21571/Seville_LLRF_25.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 55007311,
+          "modified_dt": "2025-10-10T17:13:49.779526+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "108",
+      "db_id": 17784,
+      "friendly_id": 108,
+      "title": "Radio Frequency Astronomy",
+      "type": "Oral",
+      "description": "The talk will begin with an overview of the National Radio Astronomy Observatory (NRAO), a facility of the National Science Foundation (NSF) tasked with building and operating radio telescopes and instrumentation for the global astrophysics community. I will briefly describe the four world-class instruments we currently operate, along with forthcoming key instrumentation upgrades and the Next Generation Very Large Array (ngVLA) currently under development. This will be followed by an introduction to the principles of astronomical interferometry and a discussion of the key electronic components and enabling technologies that go into a modern radio telescope. I will conclude with a technical focus on a key component of my own research---the reflectionless filter---which was developed initially to meet the needs of radio astronomy but which has proven beneficial in wide variety of applications including wireless communications, test and measurement instrumentation, defense, and most recently in quantum computing.",
+      "start_date": "2025-10-15",
+      "start_time": "11:30:00",
+      "end_date": "2025-10-15",
+      "end_time": "12:10:00",
+      "duration": 40,
+      "location": "Newport News Marriott at City Center",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17784/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Morgan, Matt",
+          "first_name": "Matt",
+          "last_name": "Morgan",
+          "affiliation": "The National Radio Astronomy Observatory (NRAO)",
+          "id": "23417"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Morgan, Matt",
+          "first_name": "Matt",
+          "last_name": "Morgan",
+          "affiliation": "The National Radio Astronomy Observatory (NRAO)",
+          "id": "23417"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21558,
+          "title": "mmorgan2_LLRF.pptx",
+          "filename": "mmorgan2_LLRF.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17784/attachments/13378/21558/mmorgan2_LLRF.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 28973789,
+          "modified_dt": "2025-10-08T13:57:13.357045+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "91",
+      "db_id": 17444,
+      "friendly_id": 91,
+      "title": "Analysis of Deployment Challenges for Machine Learning Signal Processing Algorithms",
+      "type": "Oral",
+      "description": "A challenge that industrial particle accelerators face is the high amounts of noise in sensor readings. This noise obscures essential beam diagnostic and operation data, limiting the amount of information that is relayed to machine operators and beam instrumentation engineers. Machine learning-based techniques have shown great promise in isolating noise patterns while preserving high-fidelity signals, enabling more accurate diagnostics and performance tuning. Our work focuses on investigating the challenges associated with the implementation of a noise reduction autoencoder that operates in real time on a Field Programmable Gate Array, which we do by creating firmware to run on a Xilinx ZCU104 evaluation kit with the intention of being deployed on industrial particle accelerators in the near future.",
+      "start_date": "2025-10-15",
+      "start_time": "14:10:00",
+      "end_date": "2025-10-15",
+      "end_time": "14:30:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17444/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Edelen, Jonathan",
+          "first_name": "Jonathan",
+          "last_name": "Edelen",
+          "affiliation": "RadiaSoft",
+          "id": "22912"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Edelen, Jonathan",
+          "first_name": "Jonathan",
+          "last_name": "Edelen",
+          "affiliation": "RadiaSoft",
+          "id": "22912"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Hall, Christopher",
+          "first_name": "Christopher",
+          "last_name": "Hall",
+          "affiliation": "RadiaSoft",
+          "id": "22911"
+        },
+        {
+          "name": "Rajesh, Vikshar",
+          "first_name": "Vikshar",
+          "last_name": "Rajesh",
+          "affiliation": "RadiaSoft",
+          "id": "22910"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21738,
+          "title": "Edelen_Talk.pdf",
+          "filename": "Edelen_Talk.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17444/attachments/13460/21738/Edelen_Talk.pdf",
+          "content_type": "application/pdf",
+          "size": 1635255,
+          "modified_dt": "2025-10-15T16:48:50.427338+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "26",
+      "db_id": 17447,
+      "friendly_id": 26,
+      "title": "Upgrade of BEPC-II LLRF and synchronization system for the new PWFA research",
+      "type": "Oral",
+      "description": "BEPC-II(Beijing Electron Positron Collider) has been upgraded in past three years both on LLRF system and synchronization system. A new PWFA(Plasma Wake-Field Acceleration) test facility is built to verify electron and position collider based on PWFA principle including the world-first positron acceleration and world-first cascaded-stage acceleration. So this PWFA beam should be synchronized with beam from BEPC-II, new lasers, new phase reference line and LLRF has been built or upgraded. The status of PWFA experiment related with LLRF will be talked.",
+      "start_date": "2025-10-15",
+      "start_time": "14:50:00",
+      "end_date": "2025-10-15",
+      "end_time": "15:10:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17447/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Ma, Xinpeng",
+          "first_name": "Xinpeng",
+          "last_name": "Ma",
+          "affiliation": "IHEP",
+          "id": "22925"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Ma, Xinpeng",
+          "first_name": "Xinpeng",
+          "last_name": "Ma",
+          "affiliation": "IHEP",
+          "id": "22925"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Gan, Nan",
+          "first_name": "Nan",
+          "last_name": "Gan",
+          "affiliation": "",
+          "id": "22923"
+        },
+        {
+          "name": "Peng, Yongyi",
+          "first_name": "Yongyi",
+          "last_name": "Peng",
+          "affiliation": "",
+          "id": "22924"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21702,
+          "title": "upgrade of LLRF for new PWFA-ma xinpeng.pdf",
+          "filename": "upgrade of LLRF for new PWFA-ma xinpeng.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17447/attachments/13448/21702/upgrade%20of%20LLRF%20for%20new%20PWFA-ma%20xinpeng.pdf",
+          "content_type": "application/pdf",
+          "size": 4321293,
+          "modified_dt": "2025-10-14T12:36:36.726756+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "7",
+      "db_id": 17474,
+      "friendly_id": 7,
+      "title": "Noise feedback system for Crab Cavities in Large Hadron Collider",
+      "type": "Oral",
+      "description": "Superconducting RF crab cavities will be implemented in the upcoming High-Luminosity LHC upgrade to compensate the luminosity loss due to a large crossing angle at the interactions points. In order to be beneficial for luminosity, the crab cavity system must have extremely good RF noise performance, else the emittance blow-up from its own noise may further degrade the luminosity.\r\nRequired noise performance of the Low-level RF and High-power RF systems is beyond the limit of what is possible with current technology.\r\nAn active \"noise feedback\" in the LLRF system was therefore proposed to help mitigate the emittance growth from the crab cavity system. We present the challenges of very demanding noise feedback LLRF system design, proposed processing algorithms and preliminary results from the proof of concept testing phase.\r\nThe challenge is not only the ultra low noise digitizer with large bandwidth and low ENOB converters, but also implementing a high performance, strictly beam synchronous bunch by bunch measurement into an asynchronous, fixed clock LLRF system.",
+      "start_date": "2025-10-15",
+      "start_time": "09:05:00",
+      "end_date": "2025-10-15",
+      "end_time": "09:35:00",
+      "duration": 30,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17474/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Valuch, Daniel",
+          "first_name": "Daniel",
+          "last_name": "Valuch",
+          "affiliation": "CERN",
+          "id": "23056"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Valuch, Daniel",
+          "first_name": "Daniel",
+          "last_name": "Valuch",
+          "affiliation": "CERN",
+          "id": "23056"
+        },
+        {
+          "name": "Marinov, Dimitar",
+          "first_name": "Dimitar",
+          "last_name": "Marinov",
+          "affiliation": "CERN",
+          "id": "23057"
+        },
+        {
+          "name": "Hagmann, Gregoire",
+          "first_name": "Gregoire",
+          "last_name": "Hagmann",
+          "affiliation": "CERN",
+          "id": "23059"
+        },
+        {
+          "name": "Calaga, Rama",
+          "first_name": "Rama",
+          "last_name": "Calaga",
+          "affiliation": "CERN",
+          "id": "23058"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21721,
+          "title": "Noise feedback system for Crab Cavities in Large Hadron Collider.pdf",
+          "filename": "Noise feedback system for Crab Cavities in Large Hadron Collider.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17474/attachments/13446/21721/Noise%20feedback%20system%20for%20Crab%20Cavities%20in%20Large%20Hadron%20Collider.pdf",
+          "content_type": "application/pdf",
+          "size": 2273506,
+          "modified_dt": "2025-10-14T18:33:43.469466+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "48",
+      "db_id": 17480,
+      "friendly_id": 48,
+      "title": "Upgrade of the Barrier Bucket LLRF system for High-Intensity, Low-Loss Multi-Turn Extraction at the CERN PS",
+      "type": "Oral",
+      "description": "The CERN Proton Synchrotron (PS) LLRF system is one of the oldest in operation at CERN. To meet the growing demands of high-intensity fixed-target experiments at CERN, a sophisticated beam manipulation technique combining barrier-bucket radiofrequency gymnastics with Multi-Turn Extraction (MTE) has been developed and successfully implemented in the PS. \r\nThe newly developed system enables cycle to cycle updates off the turn-synchronous voltage waveform applied to the wide-band Finemet cavity. It allows both intra-cycle manipulations and synchronization with respect to the Super Proton Synchrotron (SPS) extraction reference. These features have been fully tested with both the MTE and ion beams, successfully demonstrating synchronous barrier bucket extraction and non-integer harmonic batch compression.\r\nThis contribution summarizes the upgrades to the Finemet cavity controller, showing the new system architecture and demonstrating its operation with beams in the machine.",
+      "start_date": "2025-10-15",
+      "start_time": "11:10:00",
+      "end_date": "2025-10-15",
+      "end_time": "11:30:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17480/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Gavric, Toma",
+          "first_name": "Toma",
+          "last_name": "Gavric",
+          "affiliation": "CERN",
+          "id": "23081"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Gavric, Toma",
+          "first_name": "Toma",
+          "last_name": "Gavric",
+          "affiliation": "CERN",
+          "id": "23081"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Woolley, Benjamin",
+          "first_name": "Benjamin",
+          "last_name": "Woolley",
+          "affiliation": "CERN",
+          "id": "23079"
+        },
+        {
+          "name": "Damerau, Heiko",
+          "first_name": "Heiko",
+          "last_name": "Damerau",
+          "affiliation": "CERN",
+          "id": "23078"
+        },
+        {
+          "name": "Vadai, Mihaly",
+          "first_name": "Mihaly",
+          "last_name": "Vadai",
+          "affiliation": "SolidWatts",
+          "id": "23080"
+        },
+        {
+          "name": "Brischetto, Ylenia",
+          "first_name": "Ylenia",
+          "last_name": "Brischetto",
+          "affiliation": "CERN",
+          "id": "23082"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21733,
+          "title": "Upgrade of the Barrier Bucket LLRF system for High-Intensity, Low-Loss Multi-Turn Extraction at the CERN PS_LLRF25_v1.pptx",
+          "filename": "Upgrade of the Barrier Bucket LLRF system for High-Intensity, Low-Loss Multi-Turn Extraction at the CERN PS_LLRF25_v1.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17480/attachments/13463/21733/Upgrade%20of%20the%20Barrier%20Bucket%20LLRF%20system%20for%20High-Intensity,%20Low-Loss%20Multi-Turn%20Extraction%20at%20the%20CERN%20PS_LLRF25_v1.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 2754637,
+          "modified_dt": "2025-10-15T14:05:13.783675+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "25",
+      "db_id": 17475,
+      "friendly_id": 25,
+      "title": "Master Oscillator and Phase Reference Line Design for the PIP-II Linac",
+      "type": "Oral",
+      "description": "The phase averaging reference line system provides the  RF phase reference , LO and clock signals to the LLRF and other accelerator subsystems. The PIP-II linac has RF systems at three frequencies – 162.5 MHz, 325 MHz and 650 MHz.  A temperature-stabilized, low-phase-noise oscillator is used as the master oscillator. Phase reference signals at 162.5 MHz, 325 MHz, and 650 MHz, along with LO signals at 182.5 MHz, 345 MHz, 670 MHz and  LLRF clocks at 1320 MHz  and 1300 MHz, are generated in temperature-controlled RF modules at each frequency section. A phase reference from each module travels to the next section, where it is doubled to produce required frequencies. The reference also travels alongside the accelerating cavities in the tunnel, allowing cavity probe and reference cables to temperature track and reduce measurement errors from temperature changes or phase drift. The design of the the reference line is described here.",
+      "start_date": "2025-10-15",
+      "start_time": "15:10:00",
+      "end_date": "2025-10-15",
+      "end_time": "15:30:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17475/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Syed, Ahmed",
+          "first_name": "Ahmed",
+          "last_name": "Syed",
+          "affiliation": "Fermilab",
+          "id": "23065"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Syed, Ahmed",
+          "first_name": "Ahmed",
+          "last_name": "Syed",
+          "affiliation": "Fermilab",
+          "id": "23065"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Cullerton, Edward",
+          "first_name": "Edward",
+          "last_name": "Cullerton",
+          "affiliation": "Fermilab",
+          "id": "23061"
+        },
+        {
+          "name": "Vaughn, Brian",
+          "first_name": "Brian",
+          "last_name": "Vaughn",
+          "affiliation": "Fermilab",
+          "id": "23063"
+        },
+        {
+          "name": "Pieper, Dustin",
+          "first_name": "Dustin",
+          "last_name": "Pieper",
+          "affiliation": "Fermilab",
+          "id": "23060"
+        },
+        {
+          "name": "Stevenson, Susanna",
+          "first_name": "Susanna",
+          "last_name": "Stevenson",
+          "affiliation": "Fermilab",
+          "id": "23064"
+        },
+        {
+          "name": "Varghese, Philip",
+          "first_name": "Philip",
+          "last_name": "Varghese",
+          "affiliation": "Fermilab",
+          "id": "23062"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21736,
+          "title": "FNAL MO PRL- A.Syed v.F.pptx",
+          "filename": "FNAL MO PRL- A.Syed v.F.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17475/attachments/13425/21736/FNAL%20MO%20PRL-%20A.Syed%20v.F.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 58901203,
+          "modified_dt": "2025-10-15T15:44:33.062700+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "58",
+      "db_id": 17478,
+      "friendly_id": 58,
+      "title": "Low-Level RF System Development for EIC Crab Cavities",
+      "type": "Oral",
+      "description": "The Electron-Ion Collider (EIC) will operate with a 25 mrad crossing angle at the interaction points to enable rapid beam separation, reduce detrimental beam-beam effects, and provide space for forward detectors. This crossing geometry, however, significantly reduces the overlap region of the colliding bunches, resulting in nearly an order of magnitude luminosity loss. To restore effective head-on collisions and achieve maximum luminosity, crab cavities will apply transverse kicks to each bunch, rotating them in the crossing plane. The success of this scheme depends critically on the performance of the Low-Level RF (LLRF) system, which must deliver high-gain, low-noise field control to suppress transverse emittance growth and maintain beam stability. This presentation will describe the LLRF system architecture and control strategy for the EIC crab cavities, including RF noise mitigation, impedance control, crabbing phase closure, and integration planning. The current hardware development status and the roadmap toward full system implementation will also be presented.",
+      "start_date": "2025-10-15",
+      "start_time": "09:35:00",
+      "end_date": "2025-10-15",
+      "end_time": "10:05:00",
+      "duration": 30,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17478/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Severino, Freddy",
+          "first_name": "Freddy",
+          "last_name": "Severino",
+          "affiliation": "Brookhaven National Labs",
+          "id": "23074"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Severino, Freddy",
+          "first_name": "Freddy",
+          "last_name": "Severino",
+          "affiliation": "Brookhaven National Labs",
+          "id": "23074"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [
+        {
+          "id": 21727,
+          "title": "FSeverino_Low_Level_RF_System_Development_for_EIC_CrabCavities.pptx",
+          "filename": "FSeverino_Low_Level_RF_System_Development_for_EIC_CrabCavities.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17478/attachments/13462/21727/FSeverino_Low_Level_RF_System_Development_for_EIC_CrabCavities.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 38514628,
+          "modified_dt": "2025-10-15T03:12:18.961397+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "14",
+      "db_id": 17410,
+      "friendly_id": 14,
+      "title": "Development and Testing of a Low-Noise X-Band LLRF Prototype System",
+      "type": "Oral",
+      "description": "Low-Level RF (LLRF) systems are fundamental to the precise control of accelerating fields in modern particle accelerators, ensuring the required stability in amplitude and phase to achieve consistent beam quality. As accelerator technologies evolve toward higher frequencies and more compact designs, the X-band regime is increasingly adopted due to its support for high-gradient structures and ultra-short RF pulses. However, the shift to X-band introduces greater sensitivity to phase noise, timing jitter, and thermal fluctuations, requiring a new generation of LLRF controllers with faster signal processing and tighter control loops. In this context, a dedicated X-band LLRF prototype has been developed to meet the demanding requirements of the future EuPRAXIA@SPARC_LAB LINAC, as part of the EuPRAXIA Doctoral Network. The prototype integrates a high-speed front-end and back-end system optimized for fast pulse processing and enhanced signal fidelity. It is now prepared for full evaluation on a real accelerator test bench at the TEX facility, INFN-LNF. This paper presents the concept, implementation, and readiness of the prototype system.",
+      "start_date": "2025-10-15",
+      "start_time": "10:05:00",
+      "end_date": "2025-10-15",
+      "end_time": "10:25:00",
+      "duration": 20,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17410/",
+      "session": "",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Meruga, Phani Deep",
+          "first_name": "Phani Deep",
+          "last_name": "Meruga",
+          "affiliation": "Instrumentation Technologies",
+          "id": "22701"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Meruga, Phani Deep",
+          "first_name": "Phani Deep",
+          "last_name": "Meruga",
+          "affiliation": "Instrumentation Technologies",
+          "id": "22701"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Gallo, Alessandro",
+          "first_name": "Alessandro",
+          "last_name": "Gallo",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22702"
+        },
+        {
+          "name": "Mostacci, Andrea",
+          "first_name": "Andrea",
+          "last_name": "Mostacci",
+          "affiliation": "Sapienza University of Rome",
+          "id": "22703"
+        },
+        {
+          "name": "Serenellini, Beatrice",
+          "first_name": "Beatrice",
+          "last_name": "Serenellini",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22700"
+        },
+        {
+          "name": "Baricevic, Borut",
+          "first_name": "Borut",
+          "last_name": "Baricevic",
+          "affiliation": "Instrumentation Technologies",
+          "id": "22705"
+        },
+        {
+          "name": "Piersanti, Luca",
+          "first_name": "Luca",
+          "last_name": "Piersanti",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22704"
+        },
+        {
+          "name": "Cargnelutti, Manuel",
+          "first_name": "Manuel",
+          "last_name": "Cargnelutti",
+          "affiliation": "Instrumentation Technologies",
+          "id": "22707"
+        },
+        {
+          "name": "Bellaveglia, Marco",
+          "first_name": "Marco",
+          "last_name": "Bellaveglia",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22706"
+        },
+        {
+          "name": "Fang, Xianghe",
+          "first_name": "Xianghe",
+          "last_name": "Fang",
+          "affiliation": "Istituto Nazionale di Fisica Nucleare",
+          "id": "22699"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21707,
+          "title": "LLRF'25_workshop_X-Band_P.D.Meruga_v2_final.pptx",
+          "filename": "LLRF'25_workshop_X-Band_P.D.Meruga_v2_final.pptx",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17410/attachments/13365/21707/LLRF'25_workshop_X-Band_P.D.Meruga_v2_final.pptx",
+          "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 38072159,
+          "modified_dt": "2025-10-14T13:59:24.322416+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "59",
+      "db_id": 17448,
+      "friendly_id": 59,
+      "title": "Analysis of Required Anode Current in High-Intensity Proton Operations Using LLRF signals and Phasor diagram",
+      "type": "Poster",
+      "description": "The J-PARC Main Ring (MR) is progressing toward the delivery of a 1.3 MW proton beam to the Hyper-Kamiokande neutrino experiment by 2028. To achieve this, the number of protons per pulse (ppp) will increase from 2.3E14 to3.1E14 ppp along with a reduction in the repetition cycle from 1.32 s to 1.16 s.\r\n\r\nTo accommodate the resulting increase in beam loading, the required anode current—supplying power to two 600 kW tetrode vacuum tubes—will approach the maximum rated capacity of 127 A, based on the current cavity configuration and voltage pattern. The generator current from the RF amplifier sustains the cavity gap voltage, which corresponds to the vector sum of the beam-induced current and the generator current.\r\n\r\nThe digital Low-Level RF (LLRF) control system, implemented in 2019, ensures stability of both the cavity voltage and phase via active feedback control. Key signals such as the LLRF driving RF signal, the gap voltage signal, and the beam signal provide insights into the dynamic behavior of the system.\r\n\r\nIn this presentation, we will present measurements of these three RF signals and illustrate their interrelationship using a phasor diagram. We will also discuss potential modifications to the LLRF control system to enable integrated real-time analysis based on this measurement approach.",
+      "start_date": "2025-10-15",
+      "start_time": "16:09:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:10:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17448/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Seiya, Kiyomi",
+          "first_name": "Kiyomi",
+          "last_name": "Seiya",
+          "affiliation": "KEK/J-PARC",
+          "id": "22927"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Seiya, Kiyomi",
+          "first_name": "Kiyomi",
+          "last_name": "Seiya",
+          "affiliation": "KEK/J-PARC",
+          "id": "22927"
+        },
+        {
+          "name": "Sugiyama, Yasuyuki",
+          "first_name": "Yasuyuki",
+          "last_name": "Sugiyama",
+          "affiliation": "KEK/J-PARC",
+          "id": "22928"
+        },
+        {
+          "name": "Tamura, Fumihiko",
+          "first_name": "Fumihiko",
+          "last_name": "Tamura",
+          "affiliation": "Japan Atomic Energy Agency, J-PARC Center",
+          "id": "22926"
+        },
+        {
+          "name": "Yoshii, Masahito",
+          "first_name": "Masahito",
+          "last_name": "Yoshii",
+          "affiliation": "KEK/J-PARC",
+          "id": "22929"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "21",
+      "db_id": 17406,
+      "friendly_id": 21,
+      "title": "Update on PIP-II beam pattern generator upgrade",
+      "type": "Poster",
+      "description": "The beam pattern generator enables the transfer of beam pulses from the PIP-II linac to the Booster ring, the two RF systems being non-harmonically related. It is synchronized to the timing system to provide beam arrival information to the downstream accelerator subsystems. The design is being upgraded with COTS components and is being developed with a collaboration with SLAC.The pattern generation, digital signal processing and the user interface to an external EPICS server are integrated onto the ARM processor of the SOCFPGA. The progress of the  system development is described.",
+      "start_date": "2025-10-15",
+      "start_time": "16:17:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:18:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17406/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Varghese, Philip",
+          "first_name": "Philip",
+          "last_name": "Varghese",
+          "affiliation": "Fermilab",
+          "id": "22685"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Varghese, Philip",
+          "first_name": "Philip",
+          "last_name": "Varghese",
+          "affiliation": "Fermilab",
+          "id": "22685"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Dusatko, John",
+          "first_name": "John",
+          "last_name": "Dusatko",
+          "affiliation": "SLAC",
+          "id": "22687"
+        },
+        {
+          "name": "Chabot, Daron",
+          "first_name": "Daron",
+          "last_name": "Chabot",
+          "affiliation": "SLAC",
+          "id": "22683"
+        },
+        {
+          "name": "Sankar Raman, Shrividhyaa",
+          "first_name": "Shrividhyaa",
+          "last_name": "Sankar Raman",
+          "affiliation": "Fermilab",
+          "id": "22684"
+        },
+        {
+          "name": "Reyes, Lennon",
+          "first_name": "Lennon",
+          "last_name": "Reyes",
+          "affiliation": "Fermilab",
+          "id": "22688"
+        },
+        {
+          "name": "Guran, Matei",
+          "first_name": "Matei",
+          "last_name": "Guran",
+          "affiliation": "",
+          "id": "22686"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21636,
+          "title": "LLRF2025_BPG_P21.pdf",
+          "filename": "LLRF2025_BPG_P21.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17406/attachments/13420/21636/LLRF2025_BPG_P21.pdf",
+          "content_type": "application/pdf",
+          "size": 783001,
+          "modified_dt": "2025-10-13T03:43:36.625420+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "50",
+      "db_id": 17449,
+      "friendly_id": 50,
+      "title": "The RF Test of the FPGA Based Digital Low-Level RF Control System for the LANSCE Proton Storage Ring",
+      "type": "Poster",
+      "description": "As part of the modernization of the Los Alamos Neutron Science Center (LANSCE), a digital low level RF (LLRF) control system for the LANSCE proton storage ring (PSR) is designed. The LLRF control system is implemented in a Field Programmable Gate Array (FPGA). The high resolution tunable 2.8MHz reference RF is generated by a direct digital synthesizer at the LANSCE front end and is transmitted to the PSR control system located  half mile away. Since the digital  LLRF control system is synthesized in the In-phase/Quadrature coordinate, the I/Q reference RF signals are generated by the FIR filter based Hilbert Transformer (HT).  For the stabilization of the cavity field, a  Proportional-Integral (PI) feedback controller is implemented. In addition, for the future application, a Proportional-Derivative (PD) type beam feedforward controller is provided. The performance of the designed LLRF control system was tested on the LANSCE PSR at full RF power without beam operation",
+      "start_date": "2025-10-15",
+      "start_time": "16:14:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:15:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17449/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Brown, Michael",
+          "first_name": "Michael",
+          "last_name": "Brown",
+          "affiliation": "LANL",
+          "id": "22933"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Kwon, Sungil",
+          "first_name": "Sungil",
+          "last_name": "Kwon",
+          "affiliation": "LANL",
+          "id": "22931"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Castellano, Lawrence",
+          "first_name": "Lawrence",
+          "last_name": "Castellano",
+          "affiliation": "LANL",
+          "id": "22930"
+        },
+        {
+          "name": "Brown, Michael",
+          "first_name": "Michael",
+          "last_name": "Brown",
+          "affiliation": "LANL",
+          "id": "22933"
+        },
+        {
+          "name": "Van Rooy, Paula",
+          "first_name": "Paula",
+          "last_name": "Van Rooy",
+          "affiliation": "LANL",
+          "id": "22935"
+        },
+        {
+          "name": "Torrez, Phillip",
+          "first_name": "Phillip",
+          "last_name": "Torrez",
+          "affiliation": "LANL",
+          "id": "22932"
+        },
+        {
+          "name": "Dahal, Rupak",
+          "first_name": "Rupak",
+          "last_name": "Dahal",
+          "affiliation": "LANL",
+          "id": "22934"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "63",
+      "db_id": 17452,
+      "friendly_id": 63,
+      "title": "A Phase-Stable, Low-Loss, High-Directivity 162.5 MHz Coupler for Use in a Phase Reference Distribution Line",
+      "type": "Poster",
+      "description": "We present a custom-designed directional coupler intended for use in phase reference distribution systems for linear particle accelerators. Such systems require low phase drift, handle relatively high-power signals, and often are subjected to ionising radiation. The coupler is designed for an operating frequency of 162.5 MHz, 25 dB coupling, and input power in the range of 40-50 dBm. The prototype achieves mainline insertion loss below 0.03 dB and directivity above 35 dB. Its physical length of 21 cm (approx. 8¼\") is well below quarter-wavelength, making it relatively compact. To allow use of the coupler near the beam-line, radiation-sensitive materials such as PTFE are avoided in the construction. The internal structure is realized on a printed circuit board (PCB), which allows for ease and high repeatability of manufacturing. Importantly, the PCB dielectric serves mainly as a mechanical support for the copper pattern and its influence on the electromagnetic field is minimized. This helps reduce phase drifts due to the sensitivity of dielectric permitivity to temperature changes.",
+      "start_date": "2025-10-15",
+      "start_time": "16:02:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:03:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17452/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Gąsowski, Bartosz",
+          "first_name": "Bartosz",
+          "last_name": "Gąsowski",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22944"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Gąsowski, Bartosz",
+          "first_name": "Bartosz",
+          "last_name": "Gąsowski",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22944"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Papis, Radosław",
+          "first_name": "Radosław",
+          "last_name": "Papis",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22945"
+        },
+        {
+          "name": "Czuba, Krzysztof",
+          "first_name": "Krzysztof",
+          "last_name": "Czuba",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22946"
+        },
+        {
+          "name": "Grzegrzółka, Maciej",
+          "first_name": "Maciej",
+          "last_name": "Grzegrzółka",
+          "affiliation": "Warsaw University of Technology, Institute of Electronic Systems",
+          "id": "22947"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "84",
+      "db_id": 17411,
+      "friendly_id": 84,
+      "title": "LEMP LLRF Firmware and Software",
+      "type": "Poster",
+      "description": "The LCLS began operations in 2009, utilizing SLAC's normal-conducting LINAC, which features control equipment dating back to the 1960s and 1980s. The Linac Electronics Modernization Plan (LEMP) aims to replace the legacy control equipment with a system based on the open-source Marble carrier board and a modified version of the Zest digitizer board, both of which are used in the LCLS-II HE LLRF system. Adaptation of the LLRF system from the CW SRF LCLS-II to the short RF pulse NC LCLS includes leveraging the knowledge and experience gained from recent LLRF projects at SLAC and efficiently reusing the core functionality of the code base developed at LBNL. Here, we describe the firmware and software infrastructure, highlight key features, and present initial test results.",
+      "start_date": "2025-10-15",
+      "start_time": "16:05:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:06:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17411/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Diaz Cruz, Jorge",
+          "first_name": "Jorge",
+          "last_name": "Diaz Cruz",
+          "affiliation": "SLAC",
+          "id": "22713"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Diaz Cruz, Jorge",
+          "first_name": "Jorge",
+          "last_name": "Diaz Cruz",
+          "affiliation": "SLAC",
+          "id": "22713"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Benwell, Andy",
+          "first_name": "Andy",
+          "last_name": "Benwell",
+          "affiliation": "SLAC",
+          "id": "22714"
+        },
+        {
+          "name": "Doolittle, Larry",
+          "first_name": "Larry",
+          "last_name": "Doolittle",
+          "affiliation": "LBNL",
+          "id": "22709"
+        },
+        {
+          "name": "Sawai, Nashat",
+          "first_name": "Nashat",
+          "last_name": "Sawai",
+          "affiliation": "Stanford Linear Accelerator Center (SLAC)",
+          "id": "22711"
+        },
+        {
+          "name": "Du, Qiang",
+          "first_name": "Qiang",
+          "last_name": "Du",
+          "affiliation": "Lawrence Berkeley National Laboratory",
+          "id": "22712"
+        },
+        {
+          "name": "Murthy, Shreeharshini",
+          "first_name": "Shreeharshini",
+          "last_name": "Murthy",
+          "affiliation": "Lawrence Berkeley National Laboratory",
+          "id": "22710"
+        },
+        {
+          "name": "Hoobler, Sonya",
+          "first_name": "Sonya",
+          "last_name": "Hoobler",
+          "affiliation": "SLAC",
+          "id": "22708"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21619,
+          "title": "LLRF2025_LEMP_FW_SW_poster.pdf",
+          "filename": "LLRF2025_LEMP_FW_SW_poster.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17411/attachments/13413/21619/LLRF2025_LEMP_FW_SW_poster.pdf",
+          "content_type": "application/pdf",
+          "size": 3931601,
+          "modified_dt": "2025-10-13T01:45:46.212036+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "49",
+      "db_id": 17437,
+      "friendly_id": 49,
+      "title": "RF Data Acquisition System for the APS Upgrade",
+      "type": "Poster",
+      "description": "An FPGA- and software - based system has been developed for real-time data acquisition (DAQ) on numerous RF and other technical subsystems of the Advanced Photon Source (APS) accelerator. The software, called DAQ, is based upon the EPICS control system and is tightly integrated to FPGA hardware running on a Micro Telecommunications Architecture (TCA) platform. The FPGA hardware continuously streams data from RF systems over a Peripheral Component Interconnect Express (PCIe) bus as Direct Memory Access (DMA) transfers to a Micro-TCA- based Linux blade. DMA data transfers trigger the EPICS DAQ software running on the Linux blade to continuously stream data to the APS network using the EPICS 7 PVAccess protocol. The RF DAQ software is integrated with many distributed software services on the APS network including data storage, data visualization, and RF system monitor and control. Development of this system required the integration of FPGA firmware, electronics hardware, and software developed by multiple groups at multiple institutions.",
+      "start_date": "2025-10-15",
+      "start_time": "16:20:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:21:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17437/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Madden, Timothy",
+          "first_name": "Timothy",
+          "last_name": "Madden",
+          "affiliation": "Argonne National Laboratory",
+          "id": "22868"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Madden, Timothy",
+          "first_name": "Timothy",
+          "last_name": "Madden",
+          "affiliation": "Argonne National Laboratory",
+          "id": "22868"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Chandler, Elaine",
+          "first_name": "Elaine",
+          "last_name": "Chandler",
+          "affiliation": "Argonne National Laboratory",
+          "id": "22872"
+        },
+        {
+          "name": "Breeding, John",
+          "first_name": "John",
+          "last_name": "Breeding",
+          "affiliation": "Cutting Edge Communications",
+          "id": "22874"
+        },
+        {
+          "name": "Vodopivec, Klemen",
+          "first_name": "Klemen",
+          "last_name": "Vodopivec",
+          "affiliation": "Oakridge National Laboratory",
+          "id": "22870"
+        },
+        {
+          "name": "Veseli, Sinisa",
+          "first_name": "Sinisa",
+          "last_name": "Veseli",
+          "affiliation": "Argonne National Laboratory",
+          "id": "22869"
+        },
+        {
+          "name": "Berenc, Timothy",
+          "first_name": "Timothy",
+          "last_name": "Berenc",
+          "affiliation": "Argonne National Laboratory",
+          "id": "22873"
+        },
+        {
+          "name": "Yang, Yawei",
+          "first_name": "Yawei",
+          "last_name": "Yang",
+          "affiliation": "Argonne National Laboratory",
+          "id": "22871"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21735,
+          "title": "LLRF2025Poster.pdf",
+          "filename": "LLRF2025Poster.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17437/attachments/13464/21735/LLRF2025Poster.pdf",
+          "content_type": "application/pdf",
+          "size": 740561,
+          "modified_dt": "2025-10-15T15:38:48.757805+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "44",
+      "db_id": 17442,
+      "friendly_id": 44,
+      "title": "Development of an FPGA-based Cavity Simulator for Testing RF Controls",
+      "type": "Poster",
+      "description": "LLRF is used to precisely control the amplitude and phase of the RF field in cavities.  Often times, access to test the control algorithms with RF equipment, especially in the presence of beam, is limited or beyond reach. In such cases, testing must be done through computer modeling or simulations. Computer modeling is often too slow and difficult to interface with the LLRF hardware. Analog or digital cavity simulators are preferred as they allow for interaction with the LLRF controls platform in real-time, and compared to their analog counterparts, FPGA-based digital cavity simulators allow for a more adjustable and sophisticated implementation. The newly developed FPGA-based cavity simulator includes the cavity electrical model, the cavity mechanical model including Lorentz Force Detuning and microphonics, an amplifier model which can simulate real amplifier nonlinearities, and a beam model. The simulator will be validated using measurements from BNL’s CeC 500 MHz NCRF cavity and the CeC 704 MHz 5-cell SRF cryomodule.",
+      "start_date": "2025-10-15",
+      "start_time": "16:01:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:02:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17442/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Singh, Arshdeep",
+          "first_name": "Arshdeep",
+          "last_name": "Singh",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22894"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Singh, Arshdeep",
+          "first_name": "Arshdeep",
+          "last_name": "Singh",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22894"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Severino, Freddy",
+          "first_name": "Freddy",
+          "last_name": "Severino",
+          "affiliation": "BNL",
+          "id": "22898"
+        },
+        {
+          "name": "Narayan, Geetha",
+          "first_name": "Geetha",
+          "last_name": "Narayan",
+          "affiliation": "BNL",
+          "id": "22895"
+        },
+        {
+          "name": "Mernick, Kevin",
+          "first_name": "Kevin",
+          "last_name": "Mernick",
+          "affiliation": "BNL",
+          "id": "22899"
+        },
+        {
+          "name": "Fahey, Kyle",
+          "first_name": "Kyle",
+          "last_name": "Fahey",
+          "affiliation": "Brookhaven National Lab",
+          "id": "22896"
+        },
+        {
+          "name": "McCooey, Michael",
+          "first_name": "Michael",
+          "last_name": "McCooey",
+          "affiliation": "BNL",
+          "id": "22900"
+        },
+        {
+          "name": "Mai, Samson",
+          "first_name": "Samson",
+          "last_name": "Mai",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22897"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21535,
+          "title": "cav_sim_poster_latest.pdf",
+          "filename": "cav_sim_poster_latest.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17442/attachments/13360/21535/cav_sim_poster_latest.pdf",
+          "content_type": "application/pdf",
+          "size": 7148491,
+          "modified_dt": "2025-10-06T20:34:25.464148+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "43",
+      "db_id": 17446,
+      "friendly_id": 43,
+      "title": "LLRF Upgrades for Studying Transient Beam-Loading in RHIC 28 MHz Accelerator Cavity for the Electron-Ion Collider",
+      "type": "Poster",
+      "description": "The 28 MHz cavities, currently used in the Relativistic Heavy Ion Collider (RHIC), will be modified into 24.6 MHz cavities to be used in the Hadron Storage Ring (HSR) for the future Electron-Ion Collider (EIC). One major difference between the EIC and the current RHIC system is that the EIC HSR will host proton beams with 10 times shorter bunch length, 3 to 10 shorter bunch spacing, and up to 3 times higher beam current than those in RHIC. While this will allow for greater luminosity, it will also introduce challenges for the LLRF system in the form of stronger transient beam-loading. To counteract these effects, digital implementations of a feedfoward (FFWD) and One-Turn Delay Feedback (OTFB) have been developed for an FPGA. Furthermore, using a newly developed digital network analyzer, software has been created that allows for a straightforward method of tuning the LLRF systems for maximum cavity impedance reduction. These developments will be evaluated with beam in the 28 MHz cavities during the 2025 RHIC Run.",
+      "start_date": "2025-10-15",
+      "start_time": "16:00:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:01:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17446/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Singh, Arshdeep",
+          "first_name": "Arshdeep",
+          "last_name": "Singh",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22921"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Singh, Arshdeep",
+          "first_name": "Arshdeep",
+          "last_name": "Singh",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22921"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Severino, Freddy",
+          "first_name": "Freddy",
+          "last_name": "Severino",
+          "affiliation": "BNL",
+          "id": "22918"
+        },
+        {
+          "name": "Narayan, Geetha",
+          "first_name": "Geetha",
+          "last_name": "Narayan",
+          "affiliation": "BNL",
+          "id": "22919"
+        },
+        {
+          "name": "Mernick, Kevin",
+          "first_name": "Kevin",
+          "last_name": "Mernick",
+          "affiliation": "BNL",
+          "id": "22922"
+        },
+        {
+          "name": "Fahey, Kyle",
+          "first_name": "Kyle",
+          "last_name": "Fahey",
+          "affiliation": "Brookhaven National Lab",
+          "id": "22916"
+        },
+        {
+          "name": "McCooey, Michael",
+          "first_name": "Michael",
+          "last_name": "McCooey",
+          "affiliation": "BNL",
+          "id": "22917"
+        },
+        {
+          "name": "Mai, Samson",
+          "first_name": "Samson",
+          "last_name": "Mai",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22920"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21534,
+          "title": "tbl_poster_latest.pdf",
+          "filename": "tbl_poster_latest.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17446/attachments/13359/21534/tbl_poster_latest.pdf",
+          "content_type": "application/pdf",
+          "size": 1518517,
+          "modified_dt": "2025-10-06T20:33:54.288642+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "65",
+      "db_id": 17428,
+      "friendly_id": 65,
+      "title": "LCLS-II-HE PHASE REFERENCE LINE",
+      "type": "Poster",
+      "description": "The Phase Reference Line (PRL) for LCLS-II-HE is an extension of the PRL used for LCLS-II. The system provides a reference signal of 1300 MHz, a 185.7 MHz reference signal for the timing system, and a 1320 MHz LO for the LLRF system. The 1300 MHz signal is sent along a rigid coaxial cable down in the linac tunnel for minimal changes in length due to thermal expansion and contraction. To cancel out the effect of thermal drift on the phase of the signal, phase averaging is used. For the HE installation, the rigid coaxial line in the linac tunnel will be extended from sector 7 to sector 10. In the klystron gallery, the 185.7 MHz timing reference signal and the 1320 MHz LO signal will be extended down to sector 10 and distributed to the LLRF racks. There is also consideration for moving the MO from sector 2 to the Injector CID for increased beam stability or moving the MO to sector 10 and replacing the RF over fiber system with a coaxial line to the experiment hall for increased stability on that end.\r\n  This poster will discuss the overall system design, the performance, the extension of the system for the HE installation and the potential changes made to the existing system.",
+      "start_date": "2025-10-15",
+      "start_time": "16:15:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:16:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17428/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Ludlow, Nicholas",
+          "first_name": "Nicholas",
+          "last_name": "Ludlow",
+          "affiliation": "SLAC National Accelerator Laboratory",
+          "id": "22806"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Ludlow, Nicholas",
+          "first_name": "Nicholas",
+          "last_name": "Ludlow",
+          "affiliation": "SLAC National Accelerator Laboratory",
+          "id": "22806"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "70",
+      "db_id": 17466,
+      "friendly_id": 70,
+      "title": "LLRF Control System for S-Band Deflecting Cavity at SHINE",
+      "type": "Poster",
+      "description": "A traveling-wave transverse RF deflecting structure enables bunch length measurements at the Shanghai High Repetition Rate XFEL and Extreme Light Facility (SHINE). To enhance amplitude and phase stability in this S-band cavity, an efficient LLRF control system implements pulse-to-pulse techniques: feedforward control dynamically adjusts intra-pulse modulator HV amplitude to regulate klystron output power (accelerating voltage), while feedback control stabilizes phase by adapting the low-level RF drive. This paper presents the system's detailed design and implementation.",
+      "start_date": "2025-10-15",
+      "start_time": "16:23:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:24:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17466/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "huang, xuefang",
+          "first_name": "xuefang",
+          "last_name": "huang",
+          "affiliation": "",
+          "id": "23017"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "huang, xuefang",
+          "first_name": "xuefang",
+          "last_name": "huang",
+          "affiliation": "",
+          "id": "23017"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "zheng, xiang",
+          "first_name": "xiang",
+          "last_name": "zheng",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23012"
+        },
+        {
+          "name": "zhao, yubin",
+          "first_name": "yubin",
+          "last_name": "zhao",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23018"
+        },
+        {
+          "name": "xu, kai",
+          "first_name": "kai",
+          "last_name": "xu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23013"
+        },
+        {
+          "name": "zhang, zhigang",
+          "first_name": "zhigang",
+          "last_name": "zhang",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23010"
+        },
+        {
+          "name": "wu, hong",
+          "first_name": "hong",
+          "last_name": "wu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23016"
+        },
+        {
+          "name": "yang, wenfeng",
+          "first_name": "wenfeng",
+          "last_name": "yang",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23011"
+        },
+        {
+          "name": "yu, yuechao",
+          "first_name": "yuechao",
+          "last_name": "yu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23015"
+        },
+        {
+          "name": "wu, hailong",
+          "first_name": "hailong",
+          "last_name": "wu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23014"
+        },
+        {
+          "name": "jiang, hongru",
+          "first_name": "hongru",
+          "last_name": "jiang",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "23009"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "37",
+      "db_id": 17420,
+      "friendly_id": 37,
+      "title": "Few-Femtosecond Synchronization of Independent Beamlines in High-Power Laser Facilities via a Fully-Automated Fiber-Optic Timing System",
+      "type": "Poster",
+      "description": "We present a fully automated fiber-optic timing distribution and synchronization system developed for high-power laser facilities that require few-femtosecond synchronization between multiple beamlines, each equipped with an independent seed oscillator.\r\nBuilding on our previous work in pulsed-optical timing distribution using femtosecond lasers and ultra-low-noise stabilized fiber links*, the system achieves an out-of-loop timing drift of just 5.2 fs RMS over 10 hours between a Ti:Sa laser at 780 nm and a Yb laser at 1030 nm, synchronized remotely via fiber-optic links.\r\nThe system includes out-of-loop optical delay lines, integrated into the master platform and a coaxial RF distribution subsystem operating in parallel to the fiber-optic links. This allows high-precision, full pulse-period delay tuning of 13 ns, enabling deterministic phase bucket selection across all synchronized beamlines.\r\nAn automatic re-locking mechanism restores pulse alignment across all beamlines after oscillator restart without user intervention. The system integrates natively with EPICS control environments and supports robust 24/7 operation, enabling reproducible, high-precision pump–probe experiments.",
+      "start_date": "2025-10-15",
+      "start_time": "16:07:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:08:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17420/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Autuori, Alice",
+          "first_name": "Alice",
+          "last_name": "Autuori",
+          "affiliation": "Cycle Lasers",
+          "id": "23630"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Rückmann, Max",
+          "first_name": "Max",
+          "last_name": "Rückmann",
+          "affiliation": "Cycle GmbH",
+          "id": "22756"
+        },
+        {
+          "name": "Shafak, Kemal",
+          "first_name": "Kemal",
+          "last_name": "Shafak",
+          "affiliation": "Cycle GmbH",
+          "id": "22757"
+        },
+        {
+          "name": "Dai, Anan",
+          "first_name": "Anan",
+          "last_name": "Dai",
+          "affiliation": "Cycle GmbH",
+          "id": "22760"
+        },
+        {
+          "name": "El Sharkawy, Yousef",
+          "first_name": "Yousef",
+          "last_name": "El Sharkawy",
+          "affiliation": "Cycle GmbH",
+          "id": "22759"
+        },
+        {
+          "name": "Khan, Wahab",
+          "first_name": "Wahab",
+          "last_name": "Khan",
+          "affiliation": "Cycle GmbH",
+          "id": "22758"
+        },
+        {
+          "name": "Kärtner, Franz X.",
+          "first_name": "Franz X.",
+          "last_name": "Kärtner",
+          "affiliation": "Deutsches Elektronen-Synchrotron",
+          "id": "22755"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "10",
+      "db_id": 17455,
+      "friendly_id": 10,
+      "title": "Resonant filling for long pulse operation of EuXFEL using iterative learning based feed forward",
+      "type": "Poster",
+      "description": "A future operation scenario of the European XFEL (EuXFEL) is long pulse (LP) mode, where the 800 superconducting radio frequency (SRF) cavities of the linac are energized with RF pulse lengths of up to 500ms, in contrast to the current short pulse (SP) mode with only 1.4ms. To improve energy efficiency of LP operation, cavities must be operated at bandwidths in the range of tens of Hertz, narrower by a factor of 10 than in SP. Due to peak power limitation of the proposed high power amplifiers, the fill time will extend to several milliseconds, surpassing the period of mechanical resonances of TESLA cavities. To ensure RF filling on resonance, Lorenz force detuning induced cavity phase shifts are tracked by employing iterative learning control (ILC) on the incident RF phase in a single cavity regulation setup. In vector-sum RF regulation systems, the incident phase cannot be adjusted to each cavity individually. Hence, the concept is inverted by employing ILC on mechanical cavity tuners to align each individual cavity resonance with the common RF drive. Both approaches are simulated and evaluated experimentally.",
+      "start_date": "2025-10-15",
+      "start_time": "16:03:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:04:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17455/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Richter, Bozo",
+          "first_name": "Bozo",
+          "last_name": "Richter",
+          "affiliation": "Deutsches Elektronen-Synchrotron DESY",
+          "id": "22954"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Richter, Bozo",
+          "first_name": "Bozo",
+          "last_name": "Richter",
+          "affiliation": "Deutsches Elektronen-Synchrotron DESY",
+          "id": "22954"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Branlard, Julien",
+          "first_name": "Julien",
+          "last_name": "Branlard",
+          "affiliation": "Deutsches Elektronen-Synchrotron DESY",
+          "id": "22955"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "31",
+      "db_id": 17408,
+      "friendly_id": 31,
+      "title": "Obvious and non-obvious aspects of digital Self-Excited-Loops for SRF cavity control",
+      "type": "Poster",
+      "description": "In 1978, Delayen showed how Self-Excited Loops (SEL) can be used to great advantage for controlling narrow-band SRF cavities. Its key capability is establishing closed-loop amplitude control early in the setup process, stabilizing Lorentz forces to allow cavity tuning and phase loop setup in a stable environment.\r\nAs people around the world implement this basic idea with modern FPGA DSP technology, multiple variations and operational scenarios creep in that have both obvious and non-obvious ramifications for latency, feedback stability, and resiliency.\r\nThis paper will review the key properties of a Delayen-style SEL when set up for open-loop, amplitude stabilized, and phase-stabilized modes. Then the original analog circuit will be compared and contrasted with the known variations of digital CORDIC-based implementations.",
+      "start_date": "2025-10-15",
+      "start_time": "16:12:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:13:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17408/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Doolittle, Larry",
+          "first_name": "Larry",
+          "last_name": "Doolittle",
+          "affiliation": "LBNL",
+          "id": "22692"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Doolittle, Larry",
+          "first_name": "Larry",
+          "last_name": "Doolittle",
+          "affiliation": "LBNL",
+          "id": "22692"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Reyes, Lennon",
+          "first_name": "Lennon",
+          "last_name": "Reyes",
+          "affiliation": "Fermilab",
+          "id": "22690"
+        },
+        {
+          "name": "Guran, Matei",
+          "first_name": "Matei",
+          "last_name": "Guran",
+          "affiliation": "",
+          "id": "22694"
+        },
+        {
+          "name": "Varghese, Philip",
+          "first_name": "Philip",
+          "last_name": "Varghese",
+          "affiliation": "Fermilab",
+          "id": "22693"
+        },
+        {
+          "name": "Murthy, Shreeharshini",
+          "first_name": "Shreeharshini",
+          "last_name": "Murthy",
+          "affiliation": "Lawrence Berkeley National Laboratory",
+          "id": "22695"
+        },
+        {
+          "name": "Sankar Raman, Shrividhyaa",
+          "first_name": "Shrividhyaa",
+          "last_name": "Sankar Raman",
+          "affiliation": "Fermilab",
+          "id": "22691"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21744,
+          "title": "obve.pdf",
+          "filename": "obve.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17408/attachments/13422/21744/obve.pdf",
+          "content_type": "application/pdf",
+          "size": 1716115,
+          "modified_dt": "2025-10-16T07:11:12.670793+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "38",
+      "db_id": 17465,
+      "friendly_id": 38,
+      "title": "Status of DLLRF System Development for Soleil-II Project",
+      "type": "Poster",
+      "description": "Within the framework of the SOLEIL upgrade project towards SOLEIL II, a compact Digital Low Level Radio Frequency (DLLRF) system based on the MicroTCA platform is under development. This new system aims to enhance operational flexibility and simplify maintenance compared to the existing analog LLRF. The design originates from a 1.3 GHz DLLRF system developed for the LUCRECE project. Operating at a 10 MHz intermediate frequency (IF) and integrating a ZynqUltraScale+ (ZU+) processing board, the architecture is easily adaptable to any other RF system.\r\nThe DLLRF was successfully tested on the machine, achieving excellent performance and high accuracy in voltage and phase control. The integrated tuner was also successfully validated. In addition, the Tango control system was recently validated, using ChimeraTK firmware from DESY. The DLLRF will ultimately control the complete RF plant environment. Its installation on the SOLEIL Booster cavity is planned before the end of the year, followed by a progressive migration of the remaining cavities to this new system.",
+      "start_date": "2025-10-15",
+      "start_time": "16:18:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:19:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17465/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "SREEDHARAN, Rajesh",
+          "first_name": "Rajesh",
+          "last_name": "SREEDHARAN",
+          "affiliation": "Synchrotron SOLEIL",
+          "id": "23008"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "SREEDHARAN, Rajesh",
+          "first_name": "Rajesh",
+          "last_name": "SREEDHARAN",
+          "affiliation": "Synchrotron SOLEIL",
+          "id": "23008"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "CHAZEL, Edouard",
+          "first_name": "Edouard",
+          "last_name": "CHAZEL",
+          "affiliation": "CEA",
+          "id": "23001"
+        },
+        {
+          "name": "RIBEIRO, Fernand",
+          "first_name": "Fernand",
+          "last_name": "RIBEIRO",
+          "affiliation": "synchrotron soleil",
+          "id": "23003"
+        },
+        {
+          "name": "Labelle, Jocelyn",
+          "first_name": "Jocelyn",
+          "last_name": "Labelle",
+          "affiliation": "synchrotron soleil",
+          "id": "23005"
+        },
+        {
+          "name": "ZHAO, Lu",
+          "first_name": "Lu",
+          "last_name": "ZHAO",
+          "affiliation": "synchrotron soleil",
+          "id": "22998"
+        },
+        {
+          "name": "MAURICE, Luc",
+          "first_name": "Luc",
+          "last_name": "MAURICE",
+          "affiliation": "CEA",
+          "id": "23006"
+        },
+        {
+          "name": "DIOP, Massamba",
+          "first_name": "Massamba",
+          "last_name": "DIOP",
+          "affiliation": "synchrotron soleil",
+          "id": "23007"
+        },
+        {
+          "name": "LUONG, Michel",
+          "first_name": "Michel",
+          "last_name": "LUONG",
+          "affiliation": "CEA",
+          "id": "22999"
+        },
+        {
+          "name": "PIQUET, Olivier",
+          "first_name": "Olivier",
+          "last_name": "PIQUET",
+          "affiliation": "CEA",
+          "id": "23002"
+        },
+        {
+          "name": "MARCHAND, Patrick",
+          "first_name": "Patrick",
+          "last_name": "MARCHAND",
+          "affiliation": "synchrotron soleil",
+          "id": "23004"
+        },
+        {
+          "name": "Lopes, Robert",
+          "first_name": "Robert",
+          "last_name": "Lopes",
+          "affiliation": "synchrotron soleil",
+          "id": "23000"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "67",
+      "db_id": 17456,
+      "friendly_id": 67,
+      "title": "Identifying the source of beam loss events with Fast Data Acquisition (DAQ) Chassis",
+      "type": "Poster",
+      "description": "Determining whether an RF cavity with an undetected gradient or phase transient is the culprit behind a beam loss event has been found to be a valuable tool for CEBAF operations.  Analysis of beam position with the existing switched electrode electronics BPM hardware at the dispersive area and energy variation before a beam loss event was suggested as a method to determine if the beam loss event was correlated with an energy transient. With this purpose in mind, a prototype off-line system was developed in the fall of 2022. It implemented using National Instruments hardware and LabVIEW software and relied on a software trigger and was not integrated into the EPICS control system. Beam trips with energy transients are compared to the reason for the trips found in the CEBAF down time monitoring system. The initial results indicated that 20% of the faults had energy transients that were not coincident with any cavity faults. As a result cavity interlocks were adjusted so that the cavities tripped on such events. As a solution an existing data acquisition system that was developed for monitoring legacy RF systems in CEBAF system was deployed. It was used to capture BPM wire signals at a sample rate of 20 ksps; was triggered by  a fiber signal that is part of the fast shutdown system; and was integrated into the EPICS control system. In addition to being able to analyze the energy transients live in the control room as well as after the fact, these systems allowed us to understand the energy jitter properties just prior to the fault.  This paper will present recent results and describe a path forward using commercial off the shelf hardware installed in multiple locations which can be easily be integrated into EPICS.",
+      "start_date": "2025-10-15",
+      "start_time": "16:04:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:05:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17456/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Tiskumara, Jayendrika",
+          "first_name": "Jayendrika",
+          "last_name": "Tiskumara",
+          "affiliation": "Jefferson Lab",
+          "id": "22964"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Tiskumara, Jayendrika",
+          "first_name": "Jayendrika",
+          "last_name": "Tiskumara",
+          "affiliation": "Jefferson Lab",
+          "id": "22964"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Carpenter, Adam",
+          "first_name": "Adam",
+          "last_name": "Carpenter",
+          "affiliation": "Jefferson Lab",
+          "id": "22958"
+        },
+        {
+          "name": "Bevins, Brian",
+          "first_name": "Brian",
+          "last_name": "Bevins",
+          "affiliation": "JLab",
+          "id": "22960"
+        },
+        {
+          "name": "Mounts, Clyde",
+          "first_name": "Clyde",
+          "last_name": "Mounts",
+          "affiliation": "EESRFS",
+          "id": "22965"
+        },
+        {
+          "name": "Hovater, Curt",
+          "first_name": "Curt",
+          "last_name": "Hovater",
+          "affiliation": "JLAB",
+          "id": "22963"
+        },
+        {
+          "name": "Turner, Dennis",
+          "first_name": "Dennis",
+          "last_name": "Turner",
+          "affiliation": "Jefferson Lab",
+          "id": "22959"
+        },
+        {
+          "name": "Latshaw, James",
+          "first_name": "James",
+          "last_name": "Latshaw",
+          "affiliation": "JSA",
+          "id": "22956"
+        },
+        {
+          "name": "Bachimanchi, Rama",
+          "first_name": "Rama",
+          "last_name": "Bachimanchi",
+          "affiliation": "Jefferson Lab",
+          "id": "22957"
+        },
+        {
+          "name": "Powers, Tom",
+          "first_name": "Tom",
+          "last_name": "Powers",
+          "affiliation": "JLAB",
+          "id": "22962"
+        },
+        {
+          "name": "Plawski, Tomasz",
+          "first_name": "Tomasz",
+          "last_name": "Plawski",
+          "affiliation": "Jefferson Lab",
+          "id": "22961"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "40",
+      "db_id": 17403,
+      "friendly_id": 40,
+      "title": "Phase drift Performance of Coaxial Cables for Phase Reference Distribution Systems",
+      "type": "Poster",
+      "description": "Phase reference distribution systems (PRDS) provide highly stable, in terms of amplitude and phase stability, reference signals for every part of particle accelerator control systems, and therefore, are crucial for meeting the beam parameters requirements. Among many PRDS requirements, short and long-term phase stability is paramount. In a brief description, the sources of phase instabilities in PRDS are of short-term character, mainly the phase noise of the RF reference signal source, and long-term character, coming from the phase drift introduced by the long coaxial cables, exposed to environmental factors, like temperature, humidity, and air pressure changes. The contribution presents the recent results of long-term phase drift introduced by some coaxial cables selected for potential use in various parts of LLRF and PRDS systems. The goal is to choose RF cables that, in terms of electrical delay, remain as stable as possible in changing environmental conditions. The results present trade-offs between cable diameter, mechanical flexibility, and phase stability versus temperature change vulnerability.",
+      "start_date": "2025-10-15",
+      "start_time": "16:13:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:14:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17403/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Urbański, Maciej",
+          "first_name": "Maciej",
+          "last_name": "Urbański",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22677"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Šerlat, Andžej",
+          "first_name": "Andžej",
+          "last_name": "Šerlat",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22676"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Czuba, Krzysztof",
+          "first_name": "Krzysztof",
+          "last_name": "Czuba",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22675"
+        },
+        {
+          "name": "Gąsowski, Bartosz",
+          "first_name": "Bartosz",
+          "last_name": "Gąsowski",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22669"
+        },
+        {
+          "name": "Grzegrzółka, Maciej",
+          "first_name": "Maciej",
+          "last_name": "Grzegrzółka",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22673"
+        },
+        {
+          "name": "Jatczak, Paweł",
+          "first_name": "Paweł",
+          "last_name": "Jatczak",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22670"
+        },
+        {
+          "name": "Papis, Radosław",
+          "first_name": "Radosław",
+          "last_name": "Papis",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22674"
+        },
+        {
+          "name": "Rutkowski, Igor",
+          "first_name": "Igor",
+          "last_name": "Rutkowski",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22671"
+        },
+        {
+          "name": "Sikora, Dominik",
+          "first_name": "Dominik",
+          "last_name": "Sikora",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22672"
+        },
+        {
+          "name": "Urbański, Maciej",
+          "first_name": "Maciej",
+          "last_name": "Urbański",
+          "affiliation": "Warsaw University of Technology",
+          "id": "22677"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "45",
+      "db_id": 17413,
+      "friendly_id": 45,
+      "title": "Baseband Digital Network Analyzer Upgrade for LLRF Controllers",
+      "type": "Poster",
+      "description": "Digital Network Analyzers (DNA) have been implemented in many LLRF systems to help characterize and tune digital feedback loops. A modular DNA has been developed on FPGA and integrated into the current RHIC LLRF infrastructure. The DNA characterizes a system by injecting a complex baseband chirp to calculate the system’s magnitude and phase response. The DNA is also able to measure the open loop gain, gain and phase margins, and loop delay to help fine tune feedback loop parameters. The DNA has been verified with an implementation of one-turn delay feedback (OTFB) on the bench to maximize gain and stability. The DNA and OTFB are planned to be evaluated with dedicated beam time during a RHIC Accelerator Physics Experiment (APEX) study of transient beam loading. Once verified, the DNA will be integrated into the Common Hardware Platform for the future Electron-Ion Collider (EIC).",
+      "start_date": "2025-10-15",
+      "start_time": "16:19:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:20:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17413/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Mai, Samson",
+          "first_name": "Samson",
+          "last_name": "Mai",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22722"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Mai, Samson",
+          "first_name": "Samson",
+          "last_name": "Mai",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22722"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Singh, Arshdeep",
+          "first_name": "Arshdeep",
+          "last_name": "Singh",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22718"
+        },
+        {
+          "name": "Severino, Freddy",
+          "first_name": "Freddy",
+          "last_name": "Severino",
+          "affiliation": "BNL",
+          "id": "22720"
+        },
+        {
+          "name": "Narayan, Geetha",
+          "first_name": "Geetha",
+          "last_name": "Narayan",
+          "affiliation": "BNL",
+          "id": "22719"
+        },
+        {
+          "name": "Mernick, Kevin",
+          "first_name": "Kevin",
+          "last_name": "Mernick",
+          "affiliation": "BNL",
+          "id": "22723"
+        },
+        {
+          "name": "Fahey, Kyle",
+          "first_name": "Kyle",
+          "last_name": "Fahey",
+          "affiliation": "Brookhaven National Lab",
+          "id": "22721"
+        },
+        {
+          "name": "McCooey, Michael",
+          "first_name": "Michael",
+          "last_name": "McCooey",
+          "affiliation": "BNL",
+          "id": "22724"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 21566,
+          "title": "LLRF2025_Digital_Network_Analyzer.pdf",
+          "filename": "LLRF2025_Digital_Network_Analyzer.pdf",
+          "download_url": "https://indico.jlab.org/event/939/contributions/17413/attachments/13382/21566/LLRF2025_Digital_Network_Analyzer.pdf",
+          "content_type": "application/pdf",
+          "size": 2013314,
+          "modified_dt": "2025-10-09T13:47:43.228318+00:00",
+          "is_protected": false
+        }
+      ],
+      "attachment_count": 1,
+      "keywords": []
+    },
+    {
+      "id": "72",
+      "db_id": 17439,
+      "friendly_id": 72,
+      "title": "Fault Prediction and Diagnosis for SRF Systems–Focus on RF Power Source  Failures",
+      "type": "Poster",
+      "description": "This research aims to develop an efficient and reliable fault detection method for radio frequency (RF) superconducting cavity system power sources. Superconducting cavities are core components of large-scale scientific facilities such as particle accelerators and synchrotron radiation light sources, and their stable operation is crucial for successful experiments. However, as a key component driving superconducting cavities, potential faults in RF power sources can lead to system performance degradation or even interruption. Traditional fault detection methods often rely on manual experience or simple threshold judgments, which suffer from low detection accuracy, poor real-time performance, and difficulty in handling complex fault modes.\r\n\r\nThis abstract proposes an intelligent fault detection framework based on machine learning, designed to overcome the limitations of traditional methods. The method first involves real-time data acquisition of critical operating parameters of the RF power source, such as output power and LLRF output. Subsequently, through feature engineering on these multi-dimensional data, effective features that can characterize the system's health status are extracted. During the fault detection model training phase, a combined strategy of supervised learning and unsupervised learning will be employed. For known fault types, classification models such as support vector machines will be constructed for precise identification; for unknown or novel faults, anomaly detection algorithms such as local outlier factor will be utilized for real-time early warning.\r\n\r\nExperimental validation on CAFe2 demonstrates that this method can detect power source faults 15 days in advance. The research provides effective technical support for the predictive maintenance of SRF systems, enhancing the operational reliability and efficiency of large-scale scientific facilities.Compared to traditional methods, this intelligent fault detection system exhibits stronger adaptability and robustness, effectively reducing system downtime and ensuring the stable operation of large-scale scientific facilities. This research provides new insights for the predictive maintenance and intelligent management of RF superconducting cavity system power sources.",
+      "start_date": "2025-10-15",
+      "start_time": "16:28:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:29:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17439/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Peng, Jiayi",
+          "first_name": "Jiayi",
+          "last_name": "Peng",
+          "affiliation": "Institute of Modern Physics",
+          "id": "22880"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Peng, Jiayi",
+          "first_name": "Jiayi",
+          "last_name": "Peng",
+          "affiliation": "Institute of Modern Physics",
+          "id": "22880"
+        },
+        {
+          "name": "Yang, Lijuan",
+          "first_name": "Lijuan",
+          "last_name": "Yang",
+          "affiliation": "Institute of Modern Physics",
+          "id": "22879"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Qiu, Feng",
+          "first_name": "Feng",
+          "last_name": "Qiu",
+          "affiliation": "Institute of Modern Physics",
+          "id": "22881"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "69",
+      "db_id": 17431,
+      "friendly_id": 69,
+      "title": "Integrated Automation in SHINE LLRF Control System: Design, Implementation and Performance",
+      "type": "Poster",
+      "description": "This paper presents the design, implementation, and operational performance of the Low-Level Radio Frequency (LLRF) control system for SHINE. The system adopts a two-layer software architecture to achieve integrated automation in RF field stabilization, fault handling, and multi-cavity coordination. The lower layer utilizes EPICS IOCs implemented on Zynq SoC platforms to provide real-time cavity control. This layer supports multiple operational modes including normal beam operation, maintenance procedures, and automatic fault recovery.The upper management layer coordinates all cavities through distributed EPICS PV monitoring and implements system-wide fault tolerance logic. Key features include real-time status monitoring, automated fault analysis, and coordinated recovery. Notable innovations include the EPICS-Zynq integration for low-latency control, dynamic reconfiguration capability for different operation modes, and data-driven fault diagnosis.This control architecture represents a significant advancement in accelerator automation, combining real-time hardware control with intelligent system management. The implementation provides a robust solution for SHINE's demanding performance requirements while offering tools for efficient operation and maintenance.",
+      "start_date": "2025-10-15",
+      "start_time": "16:06:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:07:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17431/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "xu, kai",
+          "first_name": "kai",
+          "last_name": "xu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22820"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "xu, kai",
+          "first_name": "kai",
+          "last_name": "xu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22820"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "wu, hailong",
+          "first_name": "hailong",
+          "last_name": "wu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22815"
+        },
+        {
+          "name": "wu, hong",
+          "first_name": "hong",
+          "last_name": "wu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22817"
+        },
+        {
+          "name": "jiang, hongru",
+          "first_name": "hongru",
+          "last_name": "jiang",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22816"
+        },
+        {
+          "name": "yang, wenfeng",
+          "first_name": "wenfeng",
+          "last_name": "yang",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22822"
+        },
+        {
+          "name": "zheng, xiang",
+          "first_name": "xiang",
+          "last_name": "zheng",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22824"
+        },
+        {
+          "name": "huang, xuefang",
+          "first_name": "xuefang",
+          "last_name": "huang",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22819"
+        },
+        {
+          "name": "zhao, yubin",
+          "first_name": "yubin",
+          "last_name": "zhao",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22818"
+        },
+        {
+          "name": "yu, yuechao",
+          "first_name": "yuechao",
+          "last_name": "yu",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22823"
+        },
+        {
+          "name": "zhang, zhigang",
+          "first_name": "zhigang",
+          "last_name": "zhang",
+          "affiliation": "Shanghai Advanced Research Institute, CAS",
+          "id": "22821"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "30",
+      "db_id": 17425,
+      "friendly_id": 30,
+      "title": "Transitioning to EPICS at EIC: PSCDrv",
+      "type": "Poster",
+      "description": "Brookhaven National Lab's Electron-Ion Collider (EIC) plans to migrate from the Accelerator Device Object (ADO) framework developed for Relativistic Heavy Ion Collider (RHIC) applications to the Experimental Physics and Industrial Control System (EPICS) framework. EIC is based on a Common Platform architecture with custom-built hardware for controls and communication between a variety of accelerator component sub-systems: RF, Beam Instrumentation, Power Supplies, Timing, etc. The Common Platform design facilitates communication between carriers, specialized daughter cards, and the EIC global control system. To develop and validate this communication plan, LLRF group is using a specialized packet protocol to send and receive data between a Common Platform carrier and a dedicated EPICS Input-Output Controller (IOC) server.",
+      "start_date": "2025-10-15",
+      "start_time": "16:10:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:11:00",
+      "duration": 1,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17425/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Fahey, Kyle",
+          "first_name": "Kyle",
+          "last_name": "Fahey",
+          "affiliation": "Brookhaven National Lab",
+          "id": "22792"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Fahey, Kyle",
+          "first_name": "Kyle",
+          "last_name": "Fahey",
+          "affiliation": "Brookhaven National Lab",
+          "id": "22792"
+        }
+      ],
+      "coauthors": [
+        {
+          "name": "Singh, Arshdeep",
+          "first_name": "Arshdeep",
+          "last_name": "Singh",
+          "affiliation": "Brookhaven National Laboratory",
+          "id": "22786"
+        },
+        {
+          "name": "De Silva, Chanaka",
+          "first_name": "Chanaka",
+          "last_name": "De Silva",
+          "affiliation": "",
+          "id": "22791"
+        },
+        {
+          "name": "Severino, Freddy",
+          "first_name": "Freddy",
+          "last_name": "Severino",
+          "affiliation": "",
+          "id": "22788"
+        },
+        {
+          "name": "Narayan, Geetha",
+          "first_name": "Geetha",
+          "last_name": "Narayan",
+          "affiliation": "",
+          "id": "22790"
+        },
+        {
+          "name": "Mernick, Kevin",
+          "first_name": "Kevin",
+          "last_name": "Mernick",
+          "affiliation": "",
+          "id": "22793"
+        },
+        {
+          "name": "Kabir, Latif",
+          "first_name": "Latif",
+          "last_name": "Kabir",
+          "affiliation": "",
+          "id": "22787"
+        },
+        {
+          "name": "Mai, Samson",
+          "first_name": "Samson",
+          "last_name": "Mai",
+          "affiliation": "",
+          "id": "22789"
+        }
+      ],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    },
+    {
+      "id": "80",
+      "db_id": 17407,
+      "friendly_id": 80,
+      "title": "RF modeling of EM cavity resonator in Simulink",
+      "type": "Poster",
+      "description": "The presentation showcases RF modeling techniques for designing a digital twin of electromagnetic cavity resonators in Simulink. A comprehensive workflow includes:\r\n•\tRF data analysis\r\n•\tsystem design\r\n•\tbudget analysis\r\n•\tsimulation of RF-controlled components at the system level \r\nSimulink offers a unified environment for seamlessly integrating RF chains with digital signal processing algorithms and control logic in feedback and feedforward configurations. \r\nThrough simulation-driven insights, the session highlights how engineers can model, analyze, and refine resonant cavity performance using digital twin strategies, accelerating development and boosting system reliability in RF applications.",
+      "start_date": "2025-10-15",
+      "start_time": "16:24:00",
+      "end_date": "2025-10-15",
+      "end_time": "16:28:00",
+      "duration": 4,
+      "location": "",
+      "room": "",
+      "url": "https://indico.jlab.org/event/939/contributions/17407/",
+      "session": "Poster Session 2 (Software, SRF Ctrl, Timing, Meas & Ctrl, Other)",
+      "track": "",
+      "board_number": "",
+      "code": "",
+      "speakers": [
+        {
+          "name": "Vekua, Temo",
+          "first_name": "Temo",
+          "last_name": "Vekua",
+          "affiliation": "",
+          "id": "22689"
+        }
+      ],
+      "primary_authors": [
+        {
+          "name": "Vekua, Temo",
+          "first_name": "Temo",
+          "last_name": "Vekua",
+          "affiliation": "",
+          "id": "22689"
+        }
+      ],
+      "coauthors": [],
+      "attachments": [],
+      "attachment_count": 0,
+      "keywords": []
+    }
+  ]
+}
